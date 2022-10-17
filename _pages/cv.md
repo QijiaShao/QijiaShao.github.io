@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to review my CV here](http://qijiashao.github.io/files/QijiaShao_CV.pdf) (Last update: 9/2021)
+[Click to review my CV here](http://qijiashao.github.io/files/QijiaShao_CV.pdf) (Last update: 9/2022)
 
