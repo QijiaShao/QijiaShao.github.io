@@ -24,7 +24,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
-* [09/2022] Finished my internship at Snap Research and submitted a paper to CHI'23.
+* [09/2022] Finished my internship at Snap Research and submitted a paper.
 * [06/2022] I graduated from Dartmouth with a master's degree (surprisingly) and is moving to Columbia with Xia. Will miss here Hanover!
 * [05/2022] Started my research internship at Snap Research, working on reducing the motion-to-photon latency for enabling various cool interacvtive systems. Stay tuned!
 * [03/2022] Our paper **"Sunflower: Locating Underwater Robots From the Air"** has been conditionally accepted to [MobiSys 2022](https://www.sigmobile.org/mobisys/2022/). The first system ever achieves wirelessly localizing underwater robots from the air withut additional infrastructure. Laser light is our secret for cross-medium sensing. Please check out our demo video [here!](https://www.youtube.com/watch?v=ofpqm2G2s_U)
