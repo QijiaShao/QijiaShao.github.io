@@ -17,16 +17,18 @@ redirect_from:
                                                                                                                                                                                                                     
 I am passionate about solving exciting and impactful real-world challenges. My research is mainly about turning everyday objects in to sensors,  **for sensing physical and physiological signals around humans and robots.**
 
-I play with various modalities of signals from both software and hardware sides. I have designed and prototyped different practical systems  leveraging the latest technical advances (e.g., **Multimodal Deep Sensing, Mixed Reality/AR/VR, Humanoid Robot**) for  human motion teaching (soft flex/pressure sensors and camera @UbiComp'21),  human activity/behavior monitoring (computational fabrics @UbiComp'19; EMG and impedance sensors @UbiComp'21), cross-medium localization (laser light @MobiSys'22), and interactions (conductive threads @CHI'20). Feel free to contact me if interested in similar topics!
+I play with various modalities of signals from both software and hardware sides. I have designed and prototyped different practical systems  leveraging the latest technical advances (e.g., **Multimodal Deep Sensing, Mixed Reality/AR/VR, Humanoid Robot**) for  human motion teaching (soft flex/pressure sensors and camera @UbiComp'21),  human activity/behavior monitoring/prediction (computational fabrics @UbiComp'19; EMG and impedance sensors @UbiComp'21, N-euro Predictor@UbiComp'23), cross-medium localization (laser light @MobiSys'22), and interactions (conductive threads @CHI'20). Feel free to contact me if interested in similar topics!
 
 
 <!-- **I am actively seeking for a research intern position for summer 2021. Please ** -->
 
 Recent News
 ======
-* [09/2022] Finished my internship at Snap Research and submitted a paper.
+* [07/2023] Our paper **"N-euro Predictor: A Neural Network Approach for Smoothing and Predicting Motion Trajectory"** has been accepted by IMWUT (UbiComp2023). This paper highlights our efforts in addressing the motion-to-photo latency and jitter in AR/VR applications by utilizing prediction techniques. The research was conducted during my internship at Snap. More details to come!
+* [06/2023] Started my research internship at Samsung Research, where I am primarily concentrating on physiological signal sensing for health applications.
+* [09/2022] Finished my internship at Snap Research.
 * [06/2022] I graduated from Dartmouth with a master's degree (surprisingly) and is moving to Columbia with Xia. Will miss here Hanover!
-* [05/2022] Started my research internship at Snap Research, working on reducing the motion-to-photon latency for enabling various cool interacvtive systems. Stay tuned!
+* [05/2022] Started my research internship at Snap Research, working on reducing the motion-to-photon latency for enabling various cool interacvtive systems. 
 * [03/2022] Our paper **"Sunflower: Locating Underwater Robots From the Air"** has been conditionally accepted to [MobiSys 2022](https://www.sigmobile.org/mobisys/2022/). The first system ever achieves wirelessly localizing underwater robots from the air withut additional infrastructure. Laser light is our secret for cross-medium sensing. Please check out our demo video [here!](https://www.youtube.com/watch?v=ofpqm2G2s_U)
 * [09/2021] We are presenting both **ASLTeach** and **FaceSense** in [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/)!
 * [07/2021] Our COVID-motivated paper **"FaceSense: Sensing Face Touch with an Ear-worn System"** is accepted with minor revision by IMWUT (UbiComp2021). It's more than one-year-long effort collaborating with 4 universities. Cheers for the team's hard work during the pandemic!  Please check out our [paper](https://dl.acm.org/doi/pdf/10.1145/3478129) for more details. 
