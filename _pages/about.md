@@ -24,7 +24,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
-* [07/2023] Our paper **"N-euro Predictor: A Neural Network Approach for Smoothing and Predicting Motion Trajectory"** has been accepted by IMWUT (UbiComp2023). This paper highlights our efforts in addressing the motion-to-photo latency and jitter in AR/VR applications by utilizing prediction techniques. The research was conducted during my internship at Snap. More details to come!
+* [07/2023] Our paper **"N-euro Predictor: A Neural Network Approach for Smoothing and Predicting Motion Trajectory"** has been accepted by IMWUT/[UbiComp2023](https://www.ubicomp.org/ubicomp-iswc-2023/). This paper highlights our efforts in addressing the motion-to-photo latency and jitter in AR/VR applications by utilizing prediction techniques. The research was conducted during my internship at Snap. More details to come!
 * [06/2023] Started my research internship at Samsung Research, where I am primarily concentrating on physiological signal sensing for health applications.
 * [09/2022] Finished my internship at Snap Research.
 * [06/2022] I graduated from Dartmouth with a master's degree (surprisingly) and is moving to Columbia with Xia. Will miss here Hanover!
