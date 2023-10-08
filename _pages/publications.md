@@ -7,6 +7,13 @@ author_profile: true
 ---
 <b>* Co-primary authors</b><br>
 
+<img src="http://qijiashao.github.io/images/publications/N-euro.png" align="left" width="250" height="300"/> 
+<b>Sunflower: Locating Underwater Robots From the Air</b><br>
+<b>Qijia Shao\*</b>,  Jian Wang,\*, Bing Zhou, Vu An Tran, Gurunandan Krishnan, and Shree Nayar<br>
+<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 7, No. 3, Article 120, 2023  </i> (<b>UbiComp 2023</b>)<br>
+<i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3610884) [[Video]](https://www.youtube.com/watch?v=oWUvgxlaNUM&list=PLqhXYFYmZ-VdTsnSwophLk4-157aPiJwf&index=13)
+<br clear="left"/>
+
 <img src="http://qijiashao.github.io/images/publications/sunflower_white.png" align="left" width="250" height="300"/> 
 <b>Sunflower: Locating Underwater Robots From the Air</b><br>
 <b>Qijia Shao\*</b>,  Charles J. Carver*, Samuel Lensgraf, Amy Sniffen, Maxine Perroni-Scharf, Hunter Gallant, Alberto Quattrini Li, Xia Zhou<br>
