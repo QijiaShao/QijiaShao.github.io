@@ -15,7 +15,6 @@ Predicting Motion Trajectory</b><br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3610884) [[Video]](https://www.youtube.com/watch?v=oWUvgxlaNUM&list=PLqhXYFYmZ-VdTsnSwophLk4-157aPiJwf&index=13)
 <br clear="left"/>
 <font size="2"> </font> <br/>
-<font size="2"> </font> <br/>
 
 <img src="http://qijiashao.github.io/images/publications/sunflower_white.png" align="left" width="250" height="300"/> 
 <b>Sunflower: Locating Underwater Robots From the Air</b><br>
