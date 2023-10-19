@@ -12,6 +12,8 @@ redirect_from:
 
 
 * I received my master's degree from [<span style="color:Green">**Dartmouth College**</span>](https://home.dartmouth.edu/), and my bachelor's degree with the highest honor from Yingcai Honors College at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I was an exchange student in my junior year at EECS department of [National Chiao Tung University](https://www.nctu.edu.tw/en).  I spent my senior year as a research assistant at [Missouri S&T](https://www.mst.edu/), advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/).                                                                                                             
+
+
 I am passionate about solving exciting and impactful real-world challenges. My research primarily focuses on **lowering the barriers to accessing various signals**, from physical signals (e.g., force, velocity) to physiologocal signals (e.g., ECG, EMG, impedance) and enable applications on health, education and interaction.
 <!-- My research is mainly about turning everyday objects in to sensors,  **for sensing physical and physiological signals around humans and robots.** -->
 
