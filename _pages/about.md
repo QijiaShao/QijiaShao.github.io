@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* Welcome, my name is Qijia Shao,  currently a last-year Ph.D. candidate in the [Computer Science Department](https://www.cs.columbia.edu/) at [**Columbia University**](https://www.columbia.edu/). I am a member of the [Mobile X Lab](https://mobilex.cs.columbia.edu/), under the supervision of [**Professor Xia Zhou**](https://www.cs.columbia.edu/~xia/) and **Professor Fred Jiang**](http://fredjiang.com/). 
+* Welcome, my name is Qijia Shao,  currently a last-year Ph.D. candidate in the [Computer Science Department](https://www.cs.columbia.edu/) at [**Columbia University**](https://www.columbia.edu/). I am a member of the [Mobile X Lab](https://mobilex.cs.columbia.edu/), under the supervision of [**Professor Xia Zhou**](https://www.cs.columbia.edu/~xia/) and [**Professor Fred Jiang**](http://fredjiang.com/). 
 
 
 * I received my master's degree from [<span style="color:Green">**Dartmouth College**</span>](https://home.dartmouth.edu/), and my bachelor's degree with the highest honor from Yingcai Honors College at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I was an exchange student in my junior year at EECS department of [National Chiao Tung University](https://www.nctu.edu.tw/en).  I spent my senior year as a research assistant at [Missouri S&T](https://www.mst.edu/), advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/).                                                                                                             
