@@ -10,12 +10,12 @@ author_profile: true
 
 <img src="http://qijiashao.github.io/images/publications/spo2.png" align="left" width="250" height="300"/> 
 <b>Normalization is All You Need: Robust Full-Range Contactless SpO2 Estimation Across Users</b><br>
-<b>Qijia Shao\*</b>, Li Zhu, Mohsin Ahmed, Korosh Vatanparvar, Migyeong Gwak, Nafiul Rashid, Jungmok Bae, Jilong Kuang, and Alex Gao.<br>
-<i>2024 IEEE International Conference on Acoustics, Speech and Signal Processing
+<b>Qijia Shao</b>, Li Zhu, Mohsin Ahmed, Korosh Vatanparvar, Migyeong Gwak, Nafiul Rashid, Jungmok Bae, Jilong Kuang, and Alex Gao.<br>
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing
 </i> (<b>ICASSP 2024</b>)<br>
 <!-- <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3610884) [[Teaser Video]](https://www.youtube.com/watch?v=oWUvgxlaNUM&list=PLqhXYFYmZ-VdTsnSwophLk4-157aPiJwf&index=13) [[Talk]](https://www.youtube.com/watch?v=3OgojB_2VrU&t=1s) -->
 <br clear="left"/>
-<font size="1"> </font> <br/>
+
 
 <img src="http://qijiashao.github.io/images/publications/N-euro.png" align="left" width="250" height="300"/> 
 <b>N-euro Predictor: A Neural Network Approach for Smoothing and
