@@ -24,7 +24,7 @@ Predicting Motion Trajectory</b><br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 7, No. 3, Article 120, 2023  </i> (<b>UbiComp 2023</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3610884) [[Teaser Video]](https://www.youtube.com/watch?v=oWUvgxlaNUM&list=PLqhXYFYmZ-VdTsnSwophLk4-157aPiJwf&index=13) [[Talk]](https://www.youtube.com/watch?v=3OgojB_2VrU&t=1s)
 <br clear="left"/>
-<font size="1"> </font> <br/>
+<font size="0.2"> </font> <br/>
 
 <img src="http://qijiashao.github.io/images/publications/sunflower_white.png" align="left" width="250" height="300"/> 
 <b>Sunflower: Locating Underwater Robots From the Air</b><br>
