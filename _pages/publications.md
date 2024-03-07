@@ -1,11 +1,19 @@
 ---
 layout: archive
-title: "Recent Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 
 ---
 <b>* Co-primary authors</b><br>
+
+
+<img src="http://qijiashao.github.io/images/publications/Joey.png" align="left" width="250" height="300"/> 
+<b>Joey: Supporting Kangaroo Mother Care with Computational Fabrics</b><br>
+<b>Qijia Shao</b>, Jiting Liu, Emily Bejerano, Ho Man Colman, Jingping Nie, Xiaofan Jiang, and Xia Zhou <br>
+<i>Proceedings of the 22th Annual International Conference on Mobile Systems, Applications, and Services. June 2024  </i> (<b>MobiSys 2024</b>)<br>
+<i>[[PDF]](Release soon!) [[Video]](Release soon!)
+<br clear="left"/>
 
 
 <img src="http://qijiashao.github.io/images/publications/spo2.png" align="left" width="250" height="300"/> 
