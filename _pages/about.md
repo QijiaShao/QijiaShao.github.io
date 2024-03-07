@@ -25,7 +25,7 @@ I play with various modalities of signals from both software and hardware sides.
 Recent News
 ======
 * [03/2024] Our paper **"Joey:Supporting Kangaroo Mother Care with Computational Fabrics"** has been conditionally accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/). The hardest user study ever! But I'm immensely proud of this work. We introduced a fabric-based physiological sensing system to unobtrusively monitor the infant's ECGs and the skin-to-skin contact between the infant and the caregiver. The potential to enhance Kangaroo Mother Care (for pre-term babies!) holds significant importance and meaning for me! More details to come!
-* [1/2024] Gave an [invited talk](https://www.ie.cuhk.edu.hk/wp-content/uploads/2024/01/20240124_sem0524_Mr.-SHAO-Qijia_GLX.pdf) at CUHK. Thank Prof. Guoliang Xing for the host!
+* [01/2024] Gave an [invited talk](https://www.ie.cuhk.edu.hk/wp-content/uploads/2024/01/20240124_sem0524_Mr.-SHAO-Qijia_GLX.pdf) at CUHK. Thank Prof. Guoliang Xing for the host!
 * [12/2023] My internship work at Samsung Research on contactless SpO2 estimation across users is accepted at [ICASSP 2024](https://2024.ieeeicassp.org/)! We proposed a simple yet effective algorithm to handle the cross-user variation (e.g., different skin tones and ages). The proposed algorithm is also now being deployed to Samsung products!
 * [11/2023] Gave an invited talk at North Carolina State University and a [guest lecture](https://www.cs.columbia.edu/~xia/mobilex/schedule.html) in CS 6998 at Columbia Univeristy.
 * [09/2023] Won the Best Deomo Award at [MobiCom 2023](https://sigmobile.org/mobicom/2023/) and Best Teaser Award at [UbiComp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/).
