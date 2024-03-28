@@ -11,7 +11,7 @@ author_profile: true
 <img src="http://qijiashao.github.io/images/publications/Joey.png" align="left" width="250" height="350"/> 
 <b>Joey: Supporting Kangaroo Mother Care with Computational Fabrics</b><br>
 <b>Qijia Shao</b>, Jiting Liu, Emily Bejerano, Ho Man Colman, Jingping Nie, Xiaofan Jiang, and Xia Zhou <br>
-<i>Proceedings of the 22th Annual International Conference on Mobile Systems, Applications, and Services. June 2024  </i> (<b>MobiSys 2024</b>)<br>
+<i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  </i> (<b>MobiSys 2024</b>)<br>
 <i>[[pdf]](Release soon!) [[Video]](https://mobilex.cs.columbia.edu/joey/)
 <br clear="left"/>
 
@@ -19,8 +19,7 @@ author_profile: true
 <img src="http://qijiashao.github.io/images/publications/spo2.png" align="left" width="250" height="300"/> 
 <b>Normalization is All You Need: Robust Full-Range Contactless SpO2 Estimation Across Users<span style="color:red"> [oral] </span><br> </b> 
 <b>Qijia Shao</b>, Li Zhu, Mohsin Ahmed, Korosh Vatanparvar, Migyeong Gwak, Nafiul Rashid, Jungmok Bae, Jilong Kuang, and Alex Gao.<br>
-<i>IEEE International Conference on Acoustics, Speech and Signal Processing
-</i> (<b>ICASSP 2024</b>)<br>
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing </i> (<b>ICASSP 2024</b>)<br>
 <i>[[PDF]](https://ieeexplore.ieee.org/document/10446435)
 <br clear="left"/>
 
