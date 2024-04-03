@@ -7,10 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <img src="http://qijiashao.github.io/images/columbia/columbia-logo.png" align="top" width="100" height="30"/> 
-
-<br clear="left"/> -->
-
 * Welcome, my name is Qijia Shao,  currently a last-year Ph.D. candidate in the [Computer Science Department](https://www.cs.columbia.edu/) at [**Columbia University**](https://www.columbia.edu/). I am a member of the [Mobile X Lab](https://mobilex.cs.columbia.edu/), under the supervision of [**Professor Xia Zhou**](https://www.cs.columbia.edu/~xia/) and [**Professor Fred Jiang**](http://fredjiang.com/). 
 
 
