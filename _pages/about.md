@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "ABOUT ME"
+title: "About Me"
 excerpt: "ABOUT ME"
 author_profile: true
 redirect_from: 
@@ -19,7 +19,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 
 
-RECENT NEWS
+Recent News
 ======
 * [03/2024] Our paper **"Joey:Supporting Kangaroo Mother Care with Computational Fabrics"** has been conditionally accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/). The hardest user study ever! But I'm immensely proud of this work. We introduced a fabric-based physiological sensing system to unobtrusively monitor the infant's ECGs and the skin-to-skin contact between the infant and the caregiver. The potential to enhance Kangaroo Mother Care (for pre-term babies!) holds significant importance and meaning for me! Please check out the [project website](https://mobilex.cs.columbia.edu/joey/) for more details!
 * [01/2024] Gave an [invited talk](https://www.ie.cuhk.edu.hk/wp-content/uploads/2024/01/20240124_sem0524_Mr.-SHAO-Qijia_GLX.pdf) at CUHK. Thank Prof. Guoliang Xing for the host!
@@ -47,10 +47,7 @@ RECENT NEWS
 
 
 
-
-
-VISITORS
-
+Visitors
 =======
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=250&t=n&d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
