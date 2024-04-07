@@ -1,13 +1,14 @@
 ---
 layout: single
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "ABOUT ME"
+excerpt: "ABOUT ME"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<div style="text-align: justify;">
 Welcome, my name is Qijia Shao,  currently a last-year Ph.D. candidate in the [Computer Science Department](https://www.cs.columbia.edu/) at [**Columbia University**](https://www.columbia.edu/). I am a member of the [Mobile X Lab](https://mobilex.cs.columbia.edu/), under the supervision of [**Professor Xia Zhou**](https://www.cs.columbia.edu/~xia/) and [**Professor Fred Jiang**](http://fredjiang.com/). I received my master's degree from [<span style="color:Green">**Dartmouth College**</span>](https://home.dartmouth.edu/), and my bachelor's degree with the highest honor from Yingcai Honors College at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I was an exchange student in my junior year at EECS department of [National Chiao Tung University](https://www.nctu.edu.tw/en).  I spent my senior year as a research assistant at [Missouri S&T](https://www.mst.edu/), advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/).                                                                                                             
 
 
@@ -18,8 +19,9 @@ I play with various modalities of signals from both software and hardware sides.
 
 
 <!-- **I am actively seeking for a research intern position for summer 2021. Please ** -->
+</div>
 
-Recent News
+RECENT NEWS
 ======
 * [03/2024] Our paper **"Joey:Supporting Kangaroo Mother Care with Computational Fabrics"** has been conditionally accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/). The hardest user study ever! But I'm immensely proud of this work. We introduced a fabric-based physiological sensing system to unobtrusively monitor the infant's ECGs and the skin-to-skin contact between the infant and the caregiver. The potential to enhance Kangaroo Mother Care (for pre-term babies!) holds significant importance and meaning for me! Please check out the [project website](https://mobilex.cs.columbia.edu/joey/) for more details!
 * [01/2024] Gave an [invited talk](https://www.ie.cuhk.edu.hk/wp-content/uploads/2024/01/20240124_sem0524_Mr.-SHAO-Qijia_GLX.pdf) at CUHK. Thank Prof. Guoliang Xing for the host!
@@ -49,7 +51,7 @@ Recent News
 
 
 
-Visitors
+VISITORS
 =======
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=250&t=n&d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
