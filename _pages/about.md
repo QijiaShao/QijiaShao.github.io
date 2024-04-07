@@ -8,11 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! My name is Qijia Shao,  currently a last-year Ph.D. candidate in the [Computer Science Department](https://www.cs.columbia.edu/) at [**Columbia University**](https://www.columbia.edu/). I am a member of the [Mobile X Lab](https://mobilex.cs.columbia.edu/), under the supervision of [**Professor Xia Zhou**](https://www.cs.columbia.edu/~xia/) and [**Professor Fred Jiang**](http://fredjiang.com/). I received my master's degree from [<span style="color:Green">**Dartmouth College**</span>](https://home.dartmouth.edu/), and my bachelor's degree from Yingcai Honors College at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I was an exchange student in my junior year at EECS department of [National Chiao Tung University](https://www.nctu.edu.tw/en).  I spent my senior year as a research assistant at [Missouri S&T](https://www.mst.edu/), advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/).                                                                             
+Welcome! My name is Qijia Shao,  currently a last-year Ph.D. candidate in the [Computer Science Department](https://www.cs.columbia.edu/) at [**Columbia University**](https://www.columbia.edu/). I am a member of the [Mobile X Lab](https://mobilex.cs.columbia.edu/), under the supervision of [**Professor Xia Zhou**](https://www.cs.columbia.edu/~xia/) and [**Professor Fred Jiang**](http://fredjiang.com/). I received my master's degree from [<span style="color:Green">**Dartmouth College**</span>](https://home.dartmouth.edu/), and my bachelor's degree from Yingcai Honors College at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I was an exchange student in my junior year at EECS department of [National Chiao Tung University](https://www.nctu.edu.tw/en).  I spent my senior year as a research assistant at [Missouri S&T](https://www.mst.edu/), advised by [Professor Y. Rosa Zheng](https://www.lehigh.edu/~yrz218/).     
+                                                                       
 I am passionate about solving exciting and impactful real-world challenges. My research recently focuses on **lowering the barriers to acquiring and interpreting various human-related signals**, from physical signals (e.g., force, velocity) to physiological signals (e.g., ECG, EMG, impedance) and enable applications on healthcare, education and interaction.
 
 I play with various modalities of signals from both software and hardware sides. I have designed and prototyped different practical systems leveraging the latest technical advances (e.g., **Multimodal Deep Learning, Mixed Reality/AR/VR**) for  human motion teaching (soft flex/pressure sensors and camera @UIST'23, @CogSci'22, @UbiComp'21),  human activity/behavior monitoring/prediction (EMG and impedance sensors @UbiComp'21; computational fabrics @UbiComp'19 @MobiSys'24), localization and tracking (light @NSDI'24, @MobiSys'22), and interactions (N-euro Predictor@UbiComp'23; conductive threads @CHI'20). Feel free to contact me if interested in similar topics!
-
 <!-- My research is mainly about turning everyday objects in to sensors,  **for sensing physical and physiological signals around humans and robots.** -->
 <!-- **I am actively seeking for a research intern position for summer 2021. Please ** -->
 
@@ -47,7 +47,10 @@ RECENT NEWS
 
 
 
+
+
 VISITORS
+
 =======
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=250&t=n&d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
