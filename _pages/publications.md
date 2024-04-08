@@ -3,7 +3,6 @@ layout: archive
 title: "Selected Publications"
 permalink: /publications/
 author_profile: true
-
 ---
 <b>* Co-primary authors</b><br>
 
