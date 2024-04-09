@@ -21,7 +21,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
-* [04/2024] Selected as a [Cyber-Physical Systems Rising Star](https://risingstars.linklab.virginia.edu/2024/)! 
+* [04/2024] Selected as a [Cyber-Physical Systems Rising Star](https://risingstars.linklab.virginia.edu/2024/) ! 
 * [03/2024] Our paper **"Joey:Supporting Kangaroo Mother Care with Computational Fabrics"** has been conditionally accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/). The hardest user study ever! But I'm immensely proud of this work. We introduced a fabric-based physiological sensing system to unobtrusively monitor the infant's ECGs and the skin-to-skin contact between the infant and the caregiver. The potential to enhance Kangaroo Mother Care (for pre-term babies!) holds significant importance and meaning for me! Please check out the [project website](https://mobilex.cs.columbia.edu/joey/) for more details!
 * [01/2024] Gave an [invited talk](https://www.ie.cuhk.edu.hk/wp-content/uploads/2024/01/20240124_sem0524_Mr.-SHAO-Qijia_GLX.pdf) at CUHK. Thank Prof. Guoliang Xing for the host!
 * [12/2023] My internship work at Samsung Research on contactless SpO2 estimation across users is accepted at [ICASSP 2024](https://2024.ieeeicassp.org/) as an oral presentation! We proposed a simple yet effective algorithm to handle the cross-user variation (e.g., different skin tones and ages). The proposed algorithm is a A1 patent for Samsung and now being deployed to Samsung products! Please check out our paper [here!](https://ieeexplore.ieee.org/document/10446435)
@@ -35,6 +35,7 @@ Recent News
 <!-- * [05/2022] Started my research internship at Snap Research, working on reducing the motion-to-photon latency for enabling various cool interacvtive systems.  -->
 <!-- * [03/2022] Our paper **"Sunflower: Locating Underwater Robots From the Air"** has been conditionally accepted to [MobiSys 2022](https://www.sigmobile.org/mobisys/2022/). The first system ever achieves wirelessly localizing underwater robots from the air withut additional infrastructure. Laser light is our secret for cross-medium sensing. Please check out our demo video [here!](https://www.youtube.com/watch?v=ofpqm2G2s_U)
 <!-- * [09/2021] We are presenting both **ASLTeach** and **FaceSense** in [UbiComp 2021](https://www.ubicomp.org/ubicomp2021/)! -->
+
 <!-- * [07/2021] Our COVID-motivated paper **"FaceSense: Sensing Face Touch with an Ear-worn System"** is accepted with minor revision by IMWUT (UbiComp2021). It's more than one-year-long effort collaborating with 4 universities. Cheers for the team's hard work during the pandemic!  Please check out our [paper](https://dl.acm.org/doi/pdf/10.1145/3478129) for more details.  -->
 
 <!-- * [06/2021] Started my research internship at Signify (Philips Lighting), focusing on deep learning and sensor data fusion! -->
