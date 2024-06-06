@@ -11,7 +11,9 @@ author_profile: true
 <b>Joey: Supporting Kangaroo Mother Care with Computational Fabrics</b><br>
 <b>Qijia Shao</b>, Jiting Liu, Emily Bejerano, Ho Man Colman, Jingping Nie, Xiaofan Jiang, and Xia Zhou <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  </i> (<b>MobiSys 2024</b>)<br>
-<i>[[PDF]]() [[Video]](https://mobilex.cs.columbia.edu/joey/)
+<i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661867) [[Video]](https://mobilex.cs.columbia.edu/joey/)
+</i> <span style="color:red"> Best Paper Award </span>
+</i> <span style="color:red"> Best Demo Award </span>
 <br clear="left"/>
 
 
