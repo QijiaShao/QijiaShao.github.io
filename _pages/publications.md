@@ -12,8 +12,7 @@ author_profile: true
 <b>Qijia Shao</b>, Jiting Liu, Emily Bejerano, Ho Man Colman, Jingping Nie, Xiaofan Jiang, and Xia Zhou <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  </i> (<b>MobiSys 2024</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661867) [[Video]](https://mobilex.cs.columbia.edu/joey/)<br>
-</i> <span style="color:red"> Best Paper Award </span>   
- </i> <span style="color:red"> Best Demo Award </span>
+</i> <span style="color:red"> Best Paper Award + Best Demo Award</span>   
 <br clear="left"/>
 
 
@@ -30,10 +29,11 @@ author_profile: true
 Predicting Motion Trajectory</b><br>
 <b>Qijia Shao\*</b>,  Jian Wang,\*, Bing Zhou, Vu An Tran, Gurunandan Krishnan, and Shree Nayar<br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 7, No. 3, Article 120, 2023  </i> (<b>UbiComp 2023</b>)<br>
-<i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3610884) [[Teaser Video]](https://www.youtube.com/watch?v=oWUvgxlaNUM&list=PLqhXYFYmZ-VdTsnSwophLk4-157aPiJwf&index=13) [[Talk]](https://www.youtube.com/watch?v=3OgojB_2VrU&t=1s)
+<i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3610884) [[Teaser Video]](https://www.youtube.com/watch?v=oWUvgxlaNUM&list=PLqhXYFYmZ-VdTsnSwophLk4-157aPiJwf&index=13) [[Talk]](https://www.youtube.com/watch?v=3OgojB_2VrU&t=1s)<br>
+</i> <span style="color:red"> Best Teaser Award </span> 
 <br clear="left"/>
 <font size="0.1"> </font> <br/>
-</i> <span style="color:red"> Best Teaser Award </span> </b>    
+ 
 
 <img src="http://qijiashao.github.io/images/publications/sunflower_white.png" align="left" width="250" height="300"/> 
 <b>Sunflower: Locating Underwater Robots From the Air</b><br>
@@ -78,8 +78,9 @@ Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-D
 Ruibo Liu, <b>Qijia Shao</b>, Siqi Wang, Christina Ru, Devin Balkcom, Xia Zhou<br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 3, No. 1, Article 19, 2019</i> (<b>UbiComp 2019</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3314406) [[Featured in NSF "4 Awesome Discoveries This Week"]](https://www.youtube.com/watch?v=Pv7OZZiP88Y&feature=youtu.be&t=37)</i>
+</i> <span style="color:red"> NSF Awesome Discoveries </span> 
 <br clear="left"/>
-</i> <span style="color:red"> NSF Awesome  </span> 
+
 
 
 
