@@ -11,8 +11,8 @@ author_profile: true
 <b>Joey: Supporting Kangaroo Mother Care with Computational Fabrics</b><br>
 <b>Qijia Shao</b>, Jiting Liu, Emily Bejerano, Ho Man Colman, Jingping Nie, Xiaofan Jiang, and Xia Zhou <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  </i> (<b>MobiSys 2024</b>)<br>
-<i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661867) [[Video]](https://mobilex.cs.columbia.edu/joey/)
-</i> <span style="color:red"> Best Paper Award </span>
+<i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661867) [[Video]](https://mobilex.cs.columbia.edu/joey/)<br>
+</i> <span style="color:red"> Best Paper Award </span><br>
 </i> <span style="color:red"> Best Demo Award </span>
 <br clear="left"/>
 
@@ -68,7 +68,7 @@ Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-D
 <b>PolarTag: Invisible Data with Light Polarization</b> <br>
  Zhao Tian, Charles J. Carver, <b>Qijia Shao</b>, Monika Roznere, Alberto Quattrini Li, Xia Zhou <br>
 <i>The 21st International Workshop on Mobile Computing Systems and Applications</i> (<b>HotMobile 2020</b>)<br>
-<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3376897.3377854) [[Presentation]](https://www.youtube.com/watch?v=lHfvueWdjJQ&t=6s) 
+<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3376897.3377854) [[Presentation]](https://www.youtube.com/watch?v=lHfvueWdjJQ&t=6s) <br>
 </i> <span style="color:red"> Best Demo Award </span>
 <br clear="left"/>
 
