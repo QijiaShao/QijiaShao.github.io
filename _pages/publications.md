@@ -78,7 +78,7 @@ Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-D
 Ruibo Liu, <b>Qijia Shao</b>, Siqi Wang, Christina Ru, Devin Balkcom, Xia Zhou<br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 3, No. 1, Article 19, 2019</i> (<b>UbiComp 2019</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3314406) [[Featured in NSF "4 Awesome Discoveries This Week"]](https://www.youtube.com/watch?v=Pv7OZZiP88Y&feature=youtu.be&t=37)</i><br>
-</i> <span style="color:red"> NSF Awesome Discoveries </span> 
+<span style="color:red"> NSF Awesome Discoveries </span> 
 <br clear="left"/>
 
 
