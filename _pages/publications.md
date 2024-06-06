@@ -12,8 +12,8 @@ author_profile: true
 <b>Qijia Shao</b>, Jiting Liu, Emily Bejerano, Ho Man Colman, Jingping Nie, Xiaofan Jiang, and Xia Zhou <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  </i> (<b>MobiSys 2024</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661867) [[Video]](https://mobilex.cs.columbia.edu/joey/)<br>
-</i> <span style="color:red"> Best Paper Award </span><br>
-</i> <span style="color:red"> Best Demo Award </span>
+</i> <span style="color:red"> Best Paper Award </span> </b>    
+</i> <span style="color:red"> Best Demo Award </span></b> 
 <br clear="left"/>
 
 
