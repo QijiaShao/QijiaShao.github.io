@@ -36,10 +36,10 @@ I am very willing to support my students in all aspects of their development. I 
 Some of them were inspired by Prof. Vijay Chidambaram's [Interested in working with me](https://www.cs.utexas.edu/~vijay/prospective-students.htm)
 
 ## About HKUST
-The Hong Kong University of Science and Technology (HKUST), abbreviated as HKUST, is a public top-tier research university in Hong Kong located in the Sai Kung area. In 2025, HKUST was ranked 47th in the QS World University Rankings; in computer science, HKUST was ranked 31st globally, and in engineering, it was ranked 33rd globally, both disciplines continuously ranked first in Hong Kong for eight years. HKUST has also been committed to promoting innovation and entrepreneurship through various initiatives to strengthen our science and technology ecosystem and cultivate a new generation of entrepreneurs and pioneers. In 2022, HKUST ranked second in the Greater China region in the "New Wealth" deep tech unicorn incubation capability, famously incubating "DJI drones."
+The Hong Kong University of Science and Technology (HKUST), is a public top-tier research university in Hong Kong located in the Sai Kung area. In 2025, HKUST was ranked 47th in the QS World University Rankings; in computer science, HKUST was ranked 31st globally, and in engineering, it was ranked 33rd globally, both disciplines continuously ranked first in Hong Kong for eight years. HKUST has also been committed to promoting innovation and entrepreneurship through various initiatives to strengthen our science and technology ecosystem and cultivate a new generation of entrepreneurs and pioneers. In 2022, HKUST ranked second in the Greater China region in the "New Wealth" deep tech unicorn incubation capability, famously incubating "DJI drones."
 
 ## Contact Information
-If you are interested in further communication with me, please send me an [email](qijiashao@cs.columbia.edu) and fill out this [form](https://forms.gle/QACWuB7QN9fsGiFw6). Thank you!  
+If you are interested in further discussion with me, please send me an [email]() and fill out this [form](https://forms.gle/QACWuB7QN9fsGiFw6). Thank you!  
  
 **Email Subject**: School-Name-Intended Position (Ph.D./Research Assistant/Visiting Student)  
 **Materials include**: CV (education background, list of papers/projects, internship experiences, list of references, etc.), Research Statement (1 page, mainly why you are interested), transcripts, English certificate.
