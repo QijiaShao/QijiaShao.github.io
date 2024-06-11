@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## About PI
-[**Qijia Shao**](https://qijiashao.github.io/) will join the [**Hong Kong University of Science and Technology**/**HKUST**](https://hkust.edu.hk) as a Tenure-Track Assistant Professor in the fall of 2024. His research focuses on mobile computing, ubiquitous computing, and human-computer interaction. During his Ph.D., he has published several papers in top journals and conferences in his field (e.g., MobiSys, IMWUT/UbiComp, MobiCom, NSDI, CHI) and has received multiple awards including MobiSys Best Paper Award, MobiSys Best Demo Award, MobiCom Best Demo Award, Hotmobile Best Demo Award, UbiComp Best Teaser Award, and NSF Awesome Discoveries. He was also named among ACM MobiSys Rising Stars, NSF Rising Stars in Cyber-Physical Systems. During his Ph.D., he has worked at Philips Research, Snap Research, and Samsung Research, where several of his proposed algorithms are being deployed in real-world products.
+[**Qijia Shao**](https://qijiashao.github.io/) will join the [**Hong Kong University of Science and Technology**/**HKUST**](https://hkust.edu.hk) as a Tenure-Track Assistant Professor in fall 2024. His research focuses on mobile computing, ubiquitous computing, and human-computer interaction. During his Ph.D., he has published several papers in top journals and conferences in his field (e.g., MobiSys, IMWUT/UbiComp, MobiCom, NSDI, CHI) and has received multiple awards including MobiSys Best Paper Award, MobiSys Best Demo Award, MobiCom Best Demo Award, Hotmobile Best Demo Award, UbiComp Best Teaser Award, and NSF Awesome Discoveries. He was also named among ACM MobiSys Rising Stars, NSF Rising Stars in Cyber-Physical Systems. During his Ph.D., he has worked at Philips Research, Snap Research, and Samsung Research, where several of his proposed algorithms are being deployed in real-world products.
 
 ## Research Area
 We are passionate about solving real-world challenges with societal impacts. Our recent research focuses on building practically deployable systems. Specifically, human data can be divided into physical signals (e.g., motion, force, velocity) and physiological signals (e.g., electrocardiogram/ECG, electromyogram/EMG, brainwaves/EEG, body impedance). Human states are primarily influenced by physiological signals and manifested through physical signals. By efficiently acquiring and interpreting these signals, we can thoroughly understand human states and use them to address practical issues in various fields (including but not limited to **healthcare, education, and interactive entertainment**), thereby improving the quality of human life. We will address issues in two main areas:
@@ -16,9 +16,9 @@ We are passionate about solving real-world challenges with societal impacts. Our
 For more details, please visit his personal webpage: [Qijia Shao's Homepage](https://qijiashao.github.io)
 
 ## What We Expect From You
-1. Enjoy conducting research that has practical applications and love to validate your proposed theories in the real world.
+1. Enjoy conducting research that has practical applications and validating your proposed theories in the real world.
 2. Have a strong self-drive, be eager, and be able to quickly learn new knowledge in various fields. 
-3. Relevant research experience and demonstrable research capabilities (e.g., papers, projects, design competitions, etc.). 
+3. Relevant research experience and demonstrable research capabilities (e.g., papers, projects, design competitions). 
 4. A degree in computer science, artificial intelligence, electrical engineering, electronic information/communications engineering, automation, industrial design, mathematics, physics, or a related field. 
 5. Have seriously considered and understood the process of pursuing a Ph.D. and still be interested in trying it. 
 6. Be reliable, responsible, and have good communication skills, willing to communicate and share.
@@ -39,10 +39,10 @@ Some of them were inspired by Prof. Vijay Chidambaram's [Interested in working w
 The Hong Kong University of Science and Technology (HKUST), abbreviated as HKUST, is a public top-tier research university in Hong Kong located in the Sai Kung area. In 2025, HKUST was ranked 47th in the QS World University Rankings; in computer science, HKUST was ranked 31st globally, and in engineering, it was ranked 33rd globally, both disciplines continuously ranked first in Hong Kong for eight years. HKUST has also been committed to promoting innovation and entrepreneurship through various initiatives to strengthen our science and technology ecosystem and cultivate a new generation of entrepreneurs and pioneers. In 2022, HKUST ranked second in the Greater China region in the "New Wealth" deep tech unicorn incubation capability, famously incubating "DJI drones."
 
 ## Contact Information
-If you are interested in further communication with me, please send me an email and fill out this [form](https://forms.gle/QACWuB7QN9fsGiFw6). Thank you!  
-Email: qijiashao@cs.columbia.edu  
-Email Subject: School-Name-Intended Position (Ph.D./Research Assistant/Visiting Student)  
-Materials include: CV (education background, list of papers/projects, internship experiences, list of references, etc.), Research Statement (1 page, mainly why you are interested), transcripts, English certificate.
+If you are interested in further communication with me, please send me an [email](qijiashao@cs.columbia.edu) and fill out this [form](https://forms.gle/QACWuB7QN9fsGiFw6). Thank you!  
+ 
+**Email Subject**: School-Name-Intended Position (Ph.D./Research Assistant/Visiting Student)  
+**Materials include**: CV (education background, list of papers/projects, internship experiences, list of references, etc.), Research Statement (1 page, mainly why you are interested), transcripts, English certificate.
 
 
 
