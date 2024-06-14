@@ -74,7 +74,7 @@ Predicting Motion Trajectory</b><br>
 <img src="http://qijiashao.github.io/images/publications/thread.png" align="left" width="250" height="300"/> 
 <b>ThreadSense: Locating Touch on an Extremely Thin Interactive Thread</b> <br>
 Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-Dong Yang <br>
-<i>The ACM CHI Conference on Human Factors in Computing Systems</i> <br>
+<i>Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems </i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3313831.3376779) [[Video]](https://www.youtube.com/watch?v=iiSBCE1yCCs)
 <br clear="left"/>
 <font size="0.1"> </font> <br/>
