@@ -54,7 +54,7 @@ Predicting Motion Trajectory</b><br>
 
 
 
-<img src="http://qijiashao.github.io/images/publications/facesense2.png" align="left" width="250" height="300"/> 
+<img src="http://qijiashao.github.io/images/publications/facesense.png" align="left" width="250" height="300"/> 
 <b>FaceSense: Sensing Face Touch with an Ear-worn System</b> <br>
 <b>Qijia Shao\*</b>, Vimal Kakaraparthi*, Charles J. Carver,  Tien Pham, Nam Bui, VP Nguyen, Xia Zhou, Tam Vu  <br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 5, No. 3, Article 110, 2021 </i> <br>
@@ -63,13 +63,13 @@ Predicting Motion Trajectory</b><br>
 <font size="0.1"> </font> <br/>
 
 
-<img src="http://qijiashao.github.io/images/publications/teachASL2.png" align="left" width="250" height="300"/> 
+<img src="http://qijiashao.github.io/images/publications/teachASL.png" align="left" width="250" height="300"/> 
 <b>Teaching American Sign Language in Mixed Reality</b> <br>
 <b>Qijia Shao</b>, Amy Sniffen, Julien Blanchet, Megan E. Hillis, Xinyu Shi, Themistoklis K. Haris, Jason Liu, Jason Lamberton, Melissa Malzkuhn, Lorna C. Quandt, James Mahoney, David J. M. Kraemer, Xia Zhou, Devin Balkcom  <br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 4, No. 4, Article 152, 2020 </i> <br> 
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3432211) [[Presentation]](https://www.youtube.com/watch?v=695M7eGxZJ4) 
 <br clear="left"/>
-<!-- <font size="0.1"> </font> <br/> -->
+<font size="0.1"> </font> <br/>
 
 <img src="http://qijiashao.github.io/images/publications/thread.png" align="left" width="250" height="300"/> 
 <b>ThreadSense: Locating Touch on an Extremely Thin Interactive Thread</b> <br>
