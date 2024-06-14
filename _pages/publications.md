@@ -6,6 +6,14 @@ author_profile: true
 ---
 <b>* Co-primary authors</b><br>
 
+<img src="http://qijiashao.github.io/images/publications/RS.png" align="left" width="250" height="300"/> 
+<b>Weaving Physical and Physiological Sensing with Computational Fabrics</b><br>
+<b>Qijia Shao</b> <br>
+<i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  <br>
+<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385) <br>
+</i> <span style="color:red"> Best Presentation Award</span>   
+<br clear="left"/>
+
 
 <img src="http://qijiashao.github.io/images/publications/Joey.png" align="left" width="250" height="300"/> 
 <b>Joey: Supporting Kangaroo Mother Care with Computational Fabrics</b><br>
@@ -22,7 +30,7 @@ author_profile: true
 <i>IEEE International Conference on Acoustics, Speech and Signal Processing </i> (<b>ICASSP 2024</b>)<br>
 <i>[[PDF]](https://ieeexplore.ieee.org/document/10446435)
 <br clear="left"/>
-
+<!-- <font size="0.1"> </font> <br/> -->
 
 <img src="http://qijiashao.github.io/images/publications/N-euro.png" align="left" width="250" height="300"/> 
 <b>N-euro Predictor: A Neural Network Approach for Smoothing and
@@ -32,7 +40,7 @@ Predicting Motion Trajectory</b><br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3610884) [[Teaser Video]](https://www.youtube.com/watch?v=oWUvgxlaNUM&list=PLqhXYFYmZ-VdTsnSwophLk4-157aPiJwf&index=13) [[Talk]](https://www.youtube.com/watch?v=3OgojB_2VrU&t=1s)<br>
 </i> <span style="color:red"> Best Teaser Award </span> 
 <br clear="left"/>
-<font size="0.1"> </font> <br/>
+<!-- <font size="0.1"> </font> <br/> -->
  
 
 <img src="http://qijiashao.github.io/images/publications/sunflower.png" align="left" width="250" height="300"/> 
@@ -41,7 +49,7 @@ Predicting Motion Trajectory</b><br>
 <i>Proceedings of the 20th Annual International Conference on Mobile Systems, Applications, and Services. June 2022  </i> (<b>MobiSys 2022</b>)<br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) [[Video]](https://www.youtube.com/watch?v=ofpqm2G2s_U)
 <br clear="left"/>
-<!-- <br/> -->
+<!-- <font size="0.1"> </font> <br/> -->
 
 <img src="http://qijiashao.github.io/images/publications/facesense.png" align="left" width="250" height="300"/> 
 <b>FaceSense: Sensing Face Touch with an Ear-worn System</b> <br>
