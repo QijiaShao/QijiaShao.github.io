@@ -13,7 +13,7 @@ author_profile: true
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385)<i><br>
 <span style="color:red"> Best Presentation Award</span>   
 <br clear="left"/>
-<font size="0.000000001"> </font> <br/>
+<!-- <font size="0.000000001"> </font> <br/> -->
 
 
 <img src="http://qijiashao.github.io/images/publications/joey.png" align="left" width="250" height="300"/> 
@@ -30,7 +30,7 @@ author_profile: true
 <b>Qijia Shao</b>, Li Zhu, Mohsin Ahmed, Korosh Vatanparvar, Migyeong Gwak, Nafiul Rashid, Jungmok Bae, Jilong Kuang, and Alex Gao.<br>
 <i>IEEE International Conference on Acoustics, Speech and Signal Processing </i> <br>
 <i>[[PDF]](https://ieeexplore.ieee.org/document/10446435)<i><br>
-<span style="color:red"> A1 Samsung Patent</span> 
+<span style="color:red"> Samsung A1 Patent</span> 
 <br clear="left"/>
 <font size="0.1"> </font> <br/>
 
