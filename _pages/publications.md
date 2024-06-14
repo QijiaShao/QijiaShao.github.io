@@ -10,7 +10,7 @@ author_profile: true
 <b>Weaving Physical and Physiological Sensing with Computational Fabrics</b><br>
 <b>Qijia Shao</b> <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  <br>
-<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385) <br>
+<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385) <br><i>
 <span style="color:red"> Best Presentation Award</span>   
 <br clear="left"/>
 
@@ -37,8 +37,8 @@ author_profile: true
 Predicting Motion Trajectory</b><br>
 <b>Qijia Shao\*</b>,  Jian Wang,\*, Bing Zhou, Vu An Tran, Gurunandan Krishnan, and Shree Nayar<br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 7, No. 3, Article 120, 2023  </i> <br>
-<i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3610884) [[Teaser Video]](https://www.youtube.com/watch?v=oWUvgxlaNUM&list=PLqhXYFYmZ-VdTsnSwophLk4-157aPiJwf&index=13) [[Talk]](https://www.youtube.com/watch?v=3OgojB_2VrU&t=1s)<br>
-</i> <span style="color:red"> Best Teaser Award </span> 
+<i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3610884) [[Teaser Video]](https://www.youtube.com/watch?v=oWUvgxlaNUM&list=PLqhXYFYmZ-VdTsnSwophLk4-157aPiJwf&index=13) [[Talk]](https://www.youtube.com/watch?v=3OgojB_2VrU&t=1s)<br></i> 
+<span style="color:red"> Best Teaser Award </span> 
 <br clear="left"/>
 <font size="0.1"> </font> <br/>
  
@@ -47,9 +47,12 @@ Predicting Motion Trajectory</b><br>
 <b>Sunflower: Locating Underwater Robots From the Air</b><br>
 <b>Qijia Shao\*</b>,  Charles J. Carver*, Samuel Lensgraf, Amy Sniffen, Maxine Perroni-Scharf, Hunter Gallant, Alberto Quattrini Li, Xia Zhou<br>
 <i>Proceedings of the 20th Annual International Conference on Mobile Systems, Applications, and Services. June 2022  </i> <br>
-<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) [[Video]](https://www.youtube.com/watch?v=ofpqm2G2s_U)
+<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) [[Video]](https://www.youtube.com/watch?v=ofpqm2G2s_U)<br></i> 
+<span style="color:red"> Grand Prize at Dartmouth Innovation and Technology Festival </span> 
 <br clear="left"/>
 <font size="0.1"> </font> <br/>
+
+
 
 <img src="http://qijiashao.github.io/images/publications/facesense2.png" align="left" width="250" height="300"/> 
 <b>FaceSense: Sensing Face Touch with an Ear-worn System</b> <br>
