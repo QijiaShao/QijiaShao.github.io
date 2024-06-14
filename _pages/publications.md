@@ -26,10 +26,11 @@ author_profile: true
 
 
 <img src="http://qijiashao.github.io/images/publications/spo2.png" align="left" width="250" height="300"/> 
-<b>Normalization is All You Need: Robust Full-Range Contactless SpO2 Estimation Across Users<span style="color:red"> [oral] </span><br> </b> 
+<b>Normalization is All You Need: Robust Full-Range Contactless SpO2 Estimation Across Users<br> </b> 
 <b>Qijia Shao</b>, Li Zhu, Mohsin Ahmed, Korosh Vatanparvar, Migyeong Gwak, Nafiul Rashid, Jungmok Bae, Jilong Kuang, and Alex Gao.<br>
 <i>IEEE International Conference on Acoustics, Speech and Signal Processing </i> <br>
-<i>[[PDF]](https://ieeexplore.ieee.org/document/10446435)
+<i>[[PDF]](https://ieeexplore.ieee.org/document/10446435)<i><br>
+<span style="color:red"> A1 Samsung Patent</span> 
 <br clear="left"/>
 <font size="0.1"> </font> <br/>
 
