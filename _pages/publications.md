@@ -10,7 +10,7 @@ author_profile: true
 <b>Weaving Physical and Physiological Sensing with Computational Fabrics</b><br>
 <b>Qijia Shao</b> <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  <br>
-<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385) <br><i>
+<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385)<i> <br>
 <span style="color:red"> Best Presentation Award</span>   
 <br clear="left"/>
 
@@ -19,8 +19,8 @@ author_profile: true
 <b>Joey: Supporting Kangaroo Mother Care with Computational Fabrics</b><br>
 <b>Qijia Shao</b>, Jiting Liu, Emily Bejerano, Ho Man Colman Leung, Jingping Nie, Xiaofan Jiang, and Xia Zhou <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  </i> <br>
-<i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661867) [[Video]](https://mobilex.cs.columbia.edu/joey/)<br>
-</i> <span style="color:red"> Best Paper Award + Best Demo Award</span>   
+<i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661867) [[Video]](https://mobilex.cs.columbia.edu/joey/)</i><br>
+ <span style="color:red"> Best Paper Award + Best Demo Award</span>   
 <br clear="left"/>
 
 
@@ -40,7 +40,7 @@ Predicting Motion Trajectory</b><br>
 <i>[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3610884) [[Teaser Video]](https://www.youtube.com/watch?v=oWUvgxlaNUM&list=PLqhXYFYmZ-VdTsnSwophLk4-157aPiJwf&index=13) [[Talk]](https://www.youtube.com/watch?v=3OgojB_2VrU&t=1s)<br></i> 
 <span style="color:red"> Best Teaser Award </span> 
 <br clear="left"/>
-<font size="0.1"> </font> <br/>
+<!-- <font size="0.1"> </font> <br/> -->
  
 
 <img src="http://qijiashao.github.io/images/publications/sunflower.png" align="left" width="250" height="300"/> 
@@ -50,7 +50,7 @@ Predicting Motion Trajectory</b><br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3498361.3539773) [[Video]](https://www.youtube.com/watch?v=ofpqm2G2s_U)<br></i> 
 <span style="color:red"> Grand Prize at Dartmouth Innovation and Technology Festival </span> 
 <br clear="left"/>
-<font size="0.1"> </font> <br/>
+<!-- <font size="0.1"> </font> <br/> -->
 
 
 
@@ -60,6 +60,8 @@ Predicting Motion Trajectory</b><br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 5, No. 3, Article 110, 2021 </i> <br>
 <i>[[PDF]](https://doi.org/10.1145/3478129)
 <br clear="left"/>
+<font size="0.1"> </font> <br/>
+
 
 <img src="http://qijiashao.github.io/images/publications/teachASL.png" align="left" width="250" height="300"/> 
 <b>Teaching American Sign Language in Mixed Reality</b> <br>
@@ -67,7 +69,7 @@ Predicting Motion Trajectory</b><br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 4, No. 4, Article 152, 2020 </i> <br> 
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3432211) [[Presentation]](https://www.youtube.com/watch?v=695M7eGxZJ4) 
 <br clear="left"/>
-<font size="0.1"> </font> <br/>
+<!-- <font size="0.1"> </font> <br/> -->
 
 <img src="http://qijiashao.github.io/images/publications/thread.png" align="left" width="250" height="300"/> 
 <b>ThreadSense: Locating Touch on an Extremely Thin Interactive Thread</b> <br>
@@ -75,7 +77,7 @@ Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-D
 <i>The ACM CHI Conference on Human Factors in Computing Systems</i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3313831.3376779) [[Video]](https://www.youtube.com/watch?v=iiSBCE1yCCs)
 <br clear="left"/>
-<font size="2"> </font> <br/>
+<font size="0.1"> </font> <br/>
 
 <img src="http://qijiashao.github.io/images/publications/polarTag.png" align="left" width="250" height="300"/> 
 <b>PolarTag: Invisible Data with Light Polarization</b> <br>
