@@ -15,7 +15,7 @@ author_profile: true
 <br clear="left"/>
 
 
-<img src="http://qijiashao.github.io/images/publications/Joey.png" align="left" width="250" height="300"/> 
+<img src="http://qijiashao.github.io/images/publications/joey.png" align="left" width="250" height="300"/> 
 <b>Joey: Supporting Kangaroo Mother Care with Computational Fabrics</b><br>
 <b>Qijia Shao</b>, Jiting Liu, Emily Bejerano, Ho Man Colman Leung, Jingping Nie, Xiaofan Jiang, and Xia Zhou <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  </i> (<b>MobiSys 2024</b>)<br>
@@ -65,7 +65,7 @@ Predicting Motion Trajectory</b><br>
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3432211) [[Presentation]](https://www.youtube.com/watch?v=695M7eGxZJ4) 
 <br clear="left"/>
 
-<img src="http://qijiashao.github.io/images/publications/threadsense.png" align="left" width="250" height="300"/> 
+<img src="http://qijiashao.github.io/images/publications/threadSense.png" align="left" width="250" height="300"/> 
 <b>ThreadSense: Locating Touch on an Extremely Thin Interactive Thread</b> <br>
 Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-Dong Yang <br>
 <i>The ACM CHI Conference on Human Factors in Computing Systems</i> (<b>CHI 2020</b>)<br>
