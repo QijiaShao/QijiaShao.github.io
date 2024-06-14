@@ -13,7 +13,7 @@ author_profile: true
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385)<i><br>
 <span style="color:red"> Best Presentation Award</span>   
 <br clear="left"/>
-<font size="0.1"> </font> <br/>
+<font size="0.000000001"> </font> <br/>
 
 
 <img src="http://qijiashao.github.io/images/publications/joey.png" align="left" width="250" height="300"/> 
