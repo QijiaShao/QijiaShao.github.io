@@ -10,7 +10,7 @@ author_profile: true
 <b>Weaving Physical and Physiological Sensing with Computational Fabrics</b><br>
 <b>Qijia Shao</b> <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  <br>
-<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385)<i> <br>
+<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385)<i><br>
 <span style="color:red"> Best Presentation Award</span>   
 <br clear="left"/>
 
@@ -20,7 +20,7 @@ author_profile: true
 <b>Qijia Shao</b>, Jiting Liu, Emily Bejerano, Ho Man Colman Leung, Jingping Nie, Xiaofan Jiang, and Xia Zhou <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  </i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661867) [[Video]](https://mobilex.cs.columbia.edu/joey/)</i><br>
- <span style="color:red"> Best Paper Award + Best Demo Award</span>   
+<span style="color:red"> Best Paper Award + Best Demo Award</span>   
 <br clear="left"/>
 
 
@@ -63,7 +63,7 @@ Predicting Motion Trajectory</b><br>
 <font size="0.1"> </font> <br/>
 
 
-<img src="http://qijiashao.github.io/images/publications/teachASL.png" align="left" width="250" height="300"/> 
+<img src="http://qijiashao.github.io/images/publications/teachASL2.png" align="left" width="250" height="300"/> 
 <b>Teaching American Sign Language in Mixed Reality</b> <br>
 <b>Qijia Shao</b>, Amy Sniffen, Julien Blanchet, Megan E. Hillis, Xinyu Shi, Themistoklis K. Haris, Jason Liu, Jason Lamberton, Melissa Malzkuhn, Lorna C. Quandt, James Mahoney, David J. M. Kraemer, Xia Zhou, Devin Balkcom  <br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 4, No. 4, Article 152, 2020 </i> <br> 
