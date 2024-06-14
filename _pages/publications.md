@@ -77,7 +77,8 @@ Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-D
 <i>Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems </i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3313831.3376779) [[Video]](https://www.youtube.com/watch?v=iiSBCE1yCCs)
 <br clear="left"/>
-<font size="2"> </font> <br/>
+<font size="0.1"> </font> <br/>
+<font size="0.1"> </font> <br/>
 
 <img src="http://qijiashao.github.io/images/publications/polarTag.png" align="left" width="250" height="300"/> 
 <b>PolarTag: Invisible Data with Light Polarization</b> <br>
@@ -86,7 +87,7 @@ Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-D
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3376897.3377854) [[Presentation]](https://www.youtube.com/watch?v=lHfvueWdjJQ&t=6s) <br>
 </i> <span style="color:red"> Best Demo Award </span>
 <br clear="left"/>
-<font size="0.1"> </font> <br/>
+<!-- <font size="0.1"> </font> <br/> -->
 
 <img src="http://qijiashao.github.io/images/publications/joint.png" align="left" width="250" height="300"/> 
 <b>Reconstructing Human Joint Motion with Computational Fabrics</b> <br>
