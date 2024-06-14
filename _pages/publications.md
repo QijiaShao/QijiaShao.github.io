@@ -32,7 +32,7 @@ author_profile: true
 <i>[[PDF]](https://ieeexplore.ieee.org/document/10446435)</i><br>
 <span style="color:red"> Samsung A1 Patent</span> 
 <br clear="left"/>
-<font size="0.1"> </font> <br/>
+<!-- <font size="0.1"> </font> <br/> -->
 
 <img src="http://qijiashao.github.io/images/publications/N-euro.png" align="left" width="250" height="300"/> 
 <b>N-euro Predictor: A Neural Network Approach for Smoothing and
