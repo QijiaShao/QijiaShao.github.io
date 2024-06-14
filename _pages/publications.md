@@ -86,6 +86,7 @@ Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-D
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3376897.3377854) [[Presentation]](https://www.youtube.com/watch?v=lHfvueWdjJQ&t=6s) <br>
 </i> <span style="color:red"> Best Demo Award </span>
 <br clear="left"/>
+<font size="0.1"> </font> <br/>
 
 <img src="http://qijiashao.github.io/images/publications/joint.png" align="left" width="250" height="300"/> 
 <b>Reconstructing Human Joint Motion with Computational Fabrics</b> <br>
