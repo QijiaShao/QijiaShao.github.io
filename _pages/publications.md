@@ -11,7 +11,7 @@ author_profile: true
 <b>Qijia Shao</b> <br>
 <i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  <br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385) <br>
-</i> <span style="color:red"> Best Presentation Award</span>   
+<span style="color:red"> Best Presentation Award</span>   
 <br clear="left"/>
 
 
@@ -51,7 +51,7 @@ Predicting Motion Trajectory</b><br>
 <br clear="left"/>
 <font size="0.1"> </font> <br/>
 
-<img src="http://qijiashao.github.io/images/publications/facesense.png" align="left" width="250" height="300"/> 
+<img src="http://qijiashao.github.io/images/publications/facesense2.png" align="left" width="250" height="300"/> 
 <b>FaceSense: Sensing Face Touch with an Ear-worn System</b> <br>
 <b>Qijia Shao\*</b>, Vimal Kakaraparthi*, Charles J. Carver,  Tien Pham, Nam Bui, VP Nguyen, Xia Zhou, Tam Vu  <br>
 <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 5, No. 3, Article 110, 2021 </i> <br>
@@ -66,10 +66,10 @@ Predicting Motion Trajectory</b><br>
 <br clear="left"/>
 <font size="0.1"> </font> <br/>
 
-<img src="http://qijiashao.github.io/images/publications/threadSense.png" align="left" width="250" height="300"/> 
+<img src="http://qijiashao.github.io/images/publications/thread.png" align="left" width="250" height="300"/> 
 <b>ThreadSense: Locating Touch on an Extremely Thin Interactive Thread</b> <br>
 Pin-Sung Ku, <b>Qijia Shao</b>, Te-Yen Wu, Jun Gong, Ziyan Zhu, Xia Zhou, Xing-Dong Yang <br>
-<i>The ACM CHI Conference on Human Factors in Computing Systems</i> (<b>CHI 2020</b>)<br>
+<i>The ACM CHI Conference on Human Factors in Computing Systems</i> <br>
 <i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3313831.3376779) [[Video]](https://www.youtube.com/watch?v=iiSBCE1yCCs)
 <br clear="left"/>
 <font size="2"> </font> <br/>
