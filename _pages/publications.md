@@ -9,8 +9,9 @@ author_profile: true
 <img src="http://qijiashao.github.io/images/publications/RS.png" align="left" width="250" height="300"/> 
 <b>Weaving Physical and Physiological Sensing with Computational Fabrics</b><br>
 <b>Qijia Shao</b> <br>
-<i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024  <i><br>
-<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385)<i><br>
+<i>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications, and Services. June 2024<i> <br>
+<i>[[PDF]](https://dl.acm.org/doi/abs/10.1145/3643832.3661385)
+<i><br>
 <span style="color:red"> Best Presentation Award</span>   
 <br clear="left"/>
 <!-- <font size="0.000000001"> </font> <br/> -->
