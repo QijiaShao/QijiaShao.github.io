@@ -34,7 +34,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
-* [06/2024] Thrilled to receive the **Best Paper Award**, the **Best Demo Award** (People's Choice) and the **Best Presentation Award** at the Rising Stars Forum at [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/)! 
+* [06/2024] Thrilled to receive the **Best Paper Award**, the **Best Demo Award** (People's Choice) and the **Best Presentation Award** of the Rising Stars Forum at [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/)! 
 * [04/2024] Selected as one of the [Rising Stars in Cyber-Physical Systems](https://risingstars.linklab.virginia.edu/2024/participants/qijia-shao.html)! 
 * [04/2024] Selected as one of the [MobiSys Rising Stars 2024]()! 
 * [03/2024] Our paper **"Joey:Supporting Kangaroo Mother Care with Computational Fabrics"** has been conditionally accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/). The hardest user study ever! But I'm immensely proud of this work. We introduced a fabric-based physiological sensing system to unobtrusively monitor the infant's ECGs and the skin-to-skin contact between the infant and the caregiver. The potential to enhance Kangaroo Mother Care (for pre-term babies!) holds significant importance and meaning for me! Please check out the paper [here](https://dl.acm.org/doi/10.1145/3643832.3661867) and [project website](https://mobilex.cs.columbia.edu/joey/) for more details!
