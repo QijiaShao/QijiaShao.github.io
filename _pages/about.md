@@ -34,6 +34,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
+* [07/2024] Invited to serve as a keynote speaker in UbiComp MIMSVAI 2024 Workshop! See you in Melbourne!
 * [07/2024] Successfully defended my Ph.D. dissertation! A heartfelt THANK YOU to everyone who supported me along this journey!
 * [06/2024] Thrilled to receive the **Best Paper Award**, the **Best Demo Award** (People's Choice) and the **Best Presentation Award** of the Rising Stars Forum at [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/)! 
 * [04/2024] Selected as one of the [Rising Stars in Cyber-Physical Systems](https://risingstars.linklab.virginia.edu/2024/participants/qijia-shao.html)! 
