@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Qijia Shao's Homepage"
 title_separator          : "-"
 name                     : &name "Qijia Shao"
-description              : &description "Ph.D. student in Computer Science"
+description              : &description "Assistant Professor"
 url                      : https://QijiaShao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "QijiaShao/academicpages.github.io"
@@ -91,12 +91,12 @@ analytics:
 author:
   name             : "Qijia Shao"
   avatar           : "qijia_new_small.png"
-  bio              : "CS Ph.D. student @Mobile Computing, HCI"
-  location         : "New York City, NY"
+  bio              : "Assistant Professor @Mobile Computing, HCI"
+  location         : "Clear Water Bay, Hong Kong"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lvAcSnoAAAAJ&hl=en"
-  email            : "qijia@cs.columbia.edu"
+  email            : "qijiashao@ust.hk"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
