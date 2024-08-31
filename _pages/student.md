@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ## About PI
-[**Qijia Shao**](https://qijiashao.github.io/) will join [**The Hong Kong University of Science and Technology (HKUST)**](https://hkust.edu.hk) as a Tenure-Track Assistant Professor in fall 2024. He is currently recruiting Ph.D. students (Spring/Fall 2025), research assistants, and visiting students. His research focuses on mobile computing, ubiquitous computing, and human-computer interaction. During his Ph.D., he has published several papers in top journals and conferences in his field (e.g., MobiSys, IMWUT/UbiComp, MobiCom, NSDI, CHI) and has received multiple awards including MobiSys Best Paper Award, MobiSys Best Demo Award, MobiCom Best Demo Award, Hotmobile Best Demo Award, UbiComp Best Teaser Award, and NSF Awesome Discoveries. He was also named among ACM MobiSys Rising Stars, NSF Rising Stars in Cyber-Physical Systems. During his Ph.D., he has worked at Philips Research, Snap Research, and Samsung Research, where several of his proposed algorithms are being deployed in real-world products.
-
+[**Qijia Shao**](https://qijiashao.github.io/) is currently recruiting Ph.D. students (Spring/Fall 2025), research assistants, and visiting students. His research focuses on mobile computing, ubiquitous computing, and human-computer interaction. His work has been published in top conferences and journals in his field (e.g., MobiSys, IMWUT/UbiComp, MobiCom, NSDI, CHI) and has been recognized by MobiSys Best Paper Award (2024), MobiSys Best Demo Award (2024), MobiCom Best Demo Award (2023), UbiComp Best Teaser Award (2023), Hotmobile Best Demo Award (2020), and NSF Awesome Discoveries (2019). He was also named among ACM MobiSys Rising Stars, NSF Rising Stars in Cyber-Physical Systems.  He has previously worked at Philips Research, Snap Research, and Samsung Research, where several of his proposed algorithms are being deployed in real-world products.
 
 
 
