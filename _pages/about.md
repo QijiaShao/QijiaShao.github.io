@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:red;"> **NEWS: I am currently recruiting Ph.D. students (Spring/Fall 2025), research assistants, and visiting students. For more details, please refer to** [Prospective Students.](https://qijiashao.github.io/student/) **Thanks!**</span>
+<!-- <span style="color:red;"> **NEWS: I am currently recruiting Ph.D. students (Spring/Fall 2025), research assistants, and visiting students. For more details, please refer to** [Prospective Students.](https://qijiashao.github.io/student/) **Thanks!**</span> -->
 
 <div style="text-align: justify;">
 <p> Welcome! I am an Assistant Professor at <a href="https://hkust.edu.hk/"><strong>the Hong Kong University of Science and Technology (HKUST)</strong></a>. Prior to HKUST, I received my Ph.D. in Computer Science at <a href="https://www.columbia.edu/"><strong>Columbia University</strong></a> in 2024, under the supervision of <a href="https://www.cs.columbia.edu/~xia/">Prof. Xia Zhou</a> and <a href="http://fredjiang.com/">Prof. Fred Jiang</a>. I received my master's degree from <a href="https://home.dartmouth.edu/"><span style="color:Green"><strong>Dartmouth College</strong></span></a>, and my bachelor's degree from <a href="https://en.uestc.edu.cn/"><strong>UESTC</strong></a>. I was an visiting student in my junior year at EECS department of <a href="https://www.nctu.edu.tw/en">National Chiao Tung University</a>. I spent my senior year as a research assistant at <a href="https://www.mst.edu/">Missouri S&T</a>, advised by <a href="https://www.lehigh.edu/~yrz218/">Professor Y. Rosa Zheng</a>.</p>
@@ -34,6 +34,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
+* [10/2024] Humbled to be named the finalist for the [UbiComp/IMWUT Gaetano Borriello Outstanding Student Award](https://www.ubicomp.org/ubicomp-iswc-2024/awards/student-award/)!
 * [09/2024] Arrived in Hong Kong and officially started at HKUST!
 * [07/2024] Invited to serve as a keynote speaker in UbiComp [MIMSVAI 2024 Workshop](https://mimsvai.github.io/)! See you in Melbourne!
 * [07/2024] Successfully defended my Ph.D. dissertation! A heartfelt THANK YOU to everyone who supported me along this journey!
