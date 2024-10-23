@@ -34,6 +34,8 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
+* [10/2024] Invited to join the Editorial Board of ACM IMWUT as an Associate Editor.
+* [10/2024] Invited to serve as TPC for ACM MobiSys 2025.
 * [10/2024] Humbled to be named the finalist for the [UbiComp/IMWUT Gaetano Borriello Outstanding Student Award](https://www.ubicomp.org/ubicomp-iswc-2024/awards/student-award/)!
 * [09/2024] Arrived in Hong Kong and officially started at HKUST!
 * [07/2024] Invited to serve as a keynote speaker in UbiComp [MIMSVAI 2024 Workshop](https://mimsvai.github.io/)! See you in Melbourne!
