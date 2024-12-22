@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Prospective Students"
+title: "Join US"
 permalink: /student/
 author_profile: true
 ---
 
 ## About PI
-[**Qijia Shao**](https://qijiashao.github.io/) is currently recruiting Ph.D. students (Spring/Fall 2025), research assistants, and visiting students. His research focuses on mobile computing, ubiquitous computing, and human-computer interaction. His work has been published in top conferences and journals in his field (e.g., MobiSys, IMWUT/UbiComp, MobiCom, NSDI, CHI) and has been recognized by MobiSys Best Paper Award (2024), MobiSys Best Demo Award (2024), MobiCom Best Demo Award (2023), UbiComp Best Teaser Award (2023), Hotmobile Best Demo Award (2020), and NSF Awesome Discoveries (2019). He was also named among ACM MobiSys Rising Stars, NSF Rising Stars in Cyber-Physical Systems.  He has previously worked at Philips Research, Snap Research, and Samsung Research, where several of his proposed algorithms are being deployed in real-world products.
-
-
+[**Qijia Shao**](https://qijiashao.github.io/) is always looking for highly-motivated postdoctoral researcher, Ph.D. students, research assistants, and visiting students. His research focuses on mobile computing, ubiquitous computing, and human-computer interaction. His work has been published in top conferences and journals in his field (e.g., MobiSys, IMWUT/UbiComp, MobiCom, NSDI, CHI) and has been recognized by MobiSys Best Paper Award (2024), MobiSys Best Demo Award (2024), MobiCom Best Demo Award (2023), UbiComp Best Teaser Award (2023), Hotmobile Best Demo Award (2020), and NSF Awesome Discoveries (2019). He was also named among IEEE Pervasive Computing Emerging Rockstars, ACM UbiComp Gaetano Borriello Award Finalist, ACM MobiSys Rising Stars, NSF Rising Stars in Cyber-Physical Systems.  He has previously worked at Philips Research, Snap Research, and Samsung Research, where several of his proposed algorithms are being deployed in real-world products.
 
 ## Research Area
 We are passionate about solving real-world challenges with societal impacts. Our recent research focuses on building practically deployable systems, particularly on the collection and analysis of human data, including physical signals (e.g., movement, force, velocity) and physiological signals (e.g., electrocardiogram/ECG, electromyogram/EMG, brainwaves/EEG, body impedance.) These signals are crucial for understanding human states, as human states are primarily influenced by physiological signals and manifested through physical signals. By efficiently acquiring and interpreting these two types of signals, we can comprehensively understand human states and use this data to solve practical problems in various fields (including but not limited to **healthcare, education, interaction, entertainment** ), thereby improving the quality of life. Our research requires integrating various technologies (such as **machine learning, signal processing, wireless communications, integrated circuits, edge computing, operating systems, 3D printing, etc.**) to address address issues in two main areas simultaneously: 
@@ -17,7 +15,23 @@ We are passionate about solving real-world challenges with societal impacts. Our
 
 For more details, please visit his personal webpage: [Qijia Shao's Homepage](https://qijiashao.github.io)
 
-## What We Expect From You
+
+## Postdoctoral Researcher
+We are excited to announce the opening of a Postdoctoral Research Scientist position in our lab. We are looking for a highly motivated and innovative researcher to join our team. The research projects will align with our mutual interests, exploring diverse topics within ubiquitous&mobile computing, HCI and applied AI/ML. 
+
+### Preferred Qualifications:
+1. A Ph.D. in Computer Science, Electrical Engineering, or a related field.
+2. A strong publication record in top-tier related conferences (e.g., ACM IMWUT/UbiComp, MobiSys, Mobicom, SenSys, CHI, UIST).
+3. Extensive experience in Mobile Computing or AI research.
+4. Excellent communication and writing skills.
+
+### Compensation and Support:
+* Monthly salary: Up to 45,000 HKD/month.
+* Additional support and resources will be provided to facilitate your research.
+
+If you are interested in joining our team and contributing to impactful research, please feel free to reach out via email for more information. We look forward to hearing from you!
+
+## What we expect for Ph.D. Students and Visiting Roles
 1. Enjoy conducting research that has practical applications and validating your proposed theories in the real world.
 2. Have a strong self-drive, be eager, and be able to quickly learn new knowledge in various fields. 
 3. Relevant research experience and demonstrable research capabilities (e.g., papers, projects, design competitions). 
@@ -41,7 +55,7 @@ Some of them were inspired by Prof. Vijay Chidambaram's [Interested in working w
 The Hong Kong University of Science and Technology (HKUST), is a top-tier research university in Hong Kong located in the Sai Kung area. According to the 2025 QS World University Rankings, HKUST is ranked 47th globally. In subject rankings, Computer Science is ranked 31st worldwide and Engineering is ranked 33rd, both leading in Hong Kong for eight consecutive years.  HKUST maintains a global leadership position in interdisciplinary studies, consistently ranking in the top 10 globally in csranking for interdisciplinary subjects. It has also established the Academy of Interdisciplinary Studies, dedicated to fostering the development of interdisciplinary talents. Additionally, HKUST has been committed to promoting innovation and entrepreneurship through various initiatives to strengthen the science and technology ecosystem and cultivate a new generation of entrepreneurs and pioneers. In 2022, HKUST ranked second in the Greater China region in the "New Wealth" deep tech unicorn incubation capability, famously incubating "DJI drones."
 
 ## Contact Information
-If you are interested in further discussion with me, please send me an [email]() **AND** fill out this [form](https://forms.gle/QACWuB7QN9fsGiFw6). Thank you!  
+If you are interested in further discussion with me, please send an email to qijiashao@ust.hk **AND** fill out this [form](https://forms.gle/QACWuB7QN9fsGiFw6). Thank you!  
  
 **Email Subject**: School-Name-Intended Position (Ph.D./Research Assistant/Visiting Student)  
 **Materials include**: CV (education background, list of papers/projects, internship experiences, list of references, etc.), Research Statement (1 page, mainly why you are interested), transcripts, English certificate.

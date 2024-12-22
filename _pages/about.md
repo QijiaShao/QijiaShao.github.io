@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <span style="color:red;"> **NEWS: I am currently recruiting Ph.D. students (Spring/Fall 2025), research assistants, and visiting students. For more details, please refer to** [Prospective Students.](https://qijiashao.github.io/student/) **Thanks!**</span> -->
+<span style="color:red;"> **NEWS: I have multiple openings for PhDs/Postdocs. For more details, please refer to** [Join US](https://qijiashao.github.io/student/) **Thanks!**</span>
 
 <div style="text-align: justify;">
 <p> Welcome! I am an Assistant Professor at <a href="https://hkust.edu.hk/"><strong>The Hong Kong University of Science and Technology (HKUST)</strong></a>. Prior to HKUST, I received my Ph.D. in Computer Science at <a href="https://www.columbia.edu/" style="color:#52adc8"><strong>Columbia University</strong></a> in 2024, under the supervision of <a href="https://www.cs.columbia.edu/~xia/">Prof. Xia Zhou</a> and <a href="http://fredjiang.com/">Prof. Fred Jiang</a>. I received my master's degree from <a href="https://home.dartmouth.edu/" style="color:Green"><strong>Dartmouth College</strong></a>, and my bachelor's degree from <a href="https://en.uestc.edu.cn/" style="color:#3A5BA1"><strong>UESTC</strong></a>. I was an visiting student in my junior year at EECS department of <a href="https://www.nctu.edu.tw/en">National Chiao Tung University</a>. I spent my senior year as a research assistant at <a href="https://www.mst.edu/">Missouri S&T</a>, advised by <a href="https://www.lehigh.edu/~yrz218/">Professor Y. Rosa Zheng</a>.</p>
