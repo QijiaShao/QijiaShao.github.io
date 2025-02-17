@@ -9,9 +9,9 @@ author_profile: true
 [**Qijia Shao**](https://qijiashao.github.io/) is always looking for highly-motivated postdoctoral researcher, Ph.D. students, research assistants, and visiting students. His research focuses on mobile computing, ubiquitous computing, and human-computer interaction. His work has been published in top conferences and journals in his field (e.g., MobiSys, IMWUT/UbiComp, MobiCom, NSDI, CHI) and has been recognized by MobiSys Best Paper Award (2024), MobiSys Best Demo Award (2024), MobiCom Best Demo Award (2023), UbiComp Best Teaser Award (2023), Hotmobile Best Demo Award (2020), and NSF Awesome Discoveries (2019). He was also named among IEEE Pervasive Computing Emerging Rockstars, ACM UbiComp Gaetano Borriello Award Finalist, ACM MobiSys Rising Stars, NSF Rising Stars in Cyber-Physical Systems.  He has previously worked at Philips Research, Snap Research, and Samsung Research, where several of his proposed algorithms are being deployed in real-world products.
 
 ## Research Area
-We are passionate about solving real-world challenges with societal impacts. Our recent research focuses on building practically deployable systems, particularly on the collection and analysis of human data, including physical signals (e.g., movement, force, velocity) and physiological signals (e.g., electrocardiogram/ECG, electromyogram/EMG, brainwaves/EEG, body impedance.) These signals are crucial for understanding human states, as human states are primarily influenced by physiological signals and manifested through physical signals. By efficiently acquiring and interpreting these two types of signals, we can comprehensively understand human states and use this data to solve practical problems in various fields (including but not limited to **healthcare, education, interaction, entertainment** ), thereby improving the quality of life. Our research requires integrating various technologies (such as **machine learning, signal processing, wireless communications, integrated circuits, edge computing, operating systems, 3D printing, etc.**) to address issues in two main areas simultaneously: 
+We are passionate about solving real-world challenges with societal impacts. Our recent research focuses on building practically deployable systems and generalizable AI algorithms, particularly on the collection and analysis of human data, including physical signals (e.g., movement, force, velocity) and physiological signals (e.g., electrocardiogram/ECG, electromyogram/EMG, brainwaves/EEG, body impedance.) These signals are crucial for understanding human states, as human states are primarily influenced by physiological signals and manifested through physical signals. By efficiently acquiring and interpreting these two types of signals, we can comprehensively understand human states and use this data to solve practical problems in various fields (including but not limited to **healthcare, education, interaction, entertainment** ), thereby improving the quality of life. Our research requires integrating various technologies (such as **machine learning, signal processing, wireless communications, integrated circuits, edge computing, operating systems, 3D printing, etc.**) to address issues in two main areas simultaneously: 
 - **Hardware System Design**: Building systems to capture the desired data while minimizing user awareness of the system's presence (imperceptibility), thus ensuring a natural and comfortable user experience.
-- **Software Algorithm Implementation**: Leveraging the collected data to design algorithms nd machine learning models that are generalizable to new user polulation and enrionments while maintaining low computation overhead.
+- **Software Algorithm Implementation**: Leveraging the (limited) collected data to design algorithms and machine learning models that are generalizable to new user polulation and enrionments while maintaining low computation overhead.
 
 For more details, please visit his personal webpage: [Qijia Shao's Homepage](https://qijiashao.github.io)
 
@@ -21,7 +21,7 @@ We are excited to announce the opening of a Postdoctoral Research Scientist posi
 
 ### Preferred Qualifications:
 1. A Ph.D. in Computer Science, Electrical Engineering, or a related field.
-2. A strong publication record in top-tier related conferences (e.g., ACM IMWUT/UbiComp, MobiSys, Mobicom, SenSys, CHI, UIST).
+2. A strong publication record in top-tier related conferences (e.g., IMWUT/UbiComp, MobiSys, Mobicom, SenSys, CHI, UIST and/or top AI conferences).
 3. Extensive experience in Mobile Computing or AI research.
 4. Excellent communication and writing skills.
 
@@ -34,7 +34,7 @@ If you are interested in joining our team and contributing to impactful research
 ## What we expect for Ph.D. Students and Visiting Roles
 1. Enjoy conducting research that has practical applications and validating your proposed theories in the real world.
 2. Have a strong self-drive, be eager, and be able to quickly learn new knowledge in various fields. 
-3. Relevant research experience and demonstrable research capabilities (e.g., papers, projects, design competitions). 
+3. Relevant research experience in either AI or mobile computing, and demonstrable research capabilities (e.g., papers, projects, design competitions). 
 4. A degree in computer science, artificial intelligence, electrical engineering, electronic information/communications engineering, automation, industrial design, mathematics, physics, or a related field. 
 5. Have seriously considered and understood the process of pursuing a Ph.D. ([Here is a good reference article by Prof. H. T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/)) and still be interested in trying it. 
 6. Be reliable, responsible, and have good communication skills, willing to communicate and share.
