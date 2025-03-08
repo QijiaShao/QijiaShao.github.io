@@ -8,7 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:red;"> **NEWS: We have multiple openings for Postdoc/PhDs. For more details, please refer to** [Join US](https://qijiashao.github.io/student/). **Thanks!**</span>
+<span style="color:red;"> **NEWS: We have multiple openings for Postdoc/PhDs/Visiting Students. 
+For more details, please refer to** [Join US](https://qijiashao.github.io/student/). **Thanks!**</span>
 
 <div style="text-align: justify;">
 <p> Welcome! I am an Assistant Professor at <a href="https://hkust.edu.hk/"><strong>The Hong Kong University of Science and Technology (HKUST)</strong></a>. Prior to HKUST, I received my Ph.D. in Computer Science at <a href="https://www.columbia.edu/" style="color:#52adc8"><strong>Columbia University</strong></a> in 2024, under the supervision of <a href="https://www.cs.columbia.edu/~xia/">Prof. Xia Zhou</a> and <a href="http://fredjiang.com/">Prof. Fred Jiang</a>. I received my master's degree from <a href="https://home.dartmouth.edu/" style="color:Green"><strong>Dartmouth College</strong></a>, and my bachelor's degree from <a href="https://en.uestc.edu.cn/" style="color:#3A5BA1"><strong>UESTC</strong></a>. I was an visiting student in my junior year at EECS department of <a href="https://www.nctu.edu.tw/en">National Chiao Tung University</a>. I spent my senior year as a research assistant at <a href="https://www.mst.edu/">Missouri S&T</a>, advised by <a href="https://www.lehigh.edu/~yrz218/">Professor Y. Rosa Zheng</a>.</p>
@@ -52,6 +53,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
+* [01/2025] Joey was hightlighted in [GetMobile](https://dl.acm.org/doi/10.1145/3714983.3714994) from ACM SIGMOBILE!
 * [11/2024] Invited to serve as TPC for [ACM SenSys 2025](https://sensys.acm.org/2025/), please consider submitting!
 * [10/2024] Invited to join the Editorial Board of ACM IMWUT as an Associate Editor, please consider submitting!
 * [10/2024] Invited to serve as TPC for [ACM MobiSys 2025](https://sigmobile.org/mobisys/2025/), please consider submitting!
