@@ -55,7 +55,7 @@ Recent News
 ======
 * [01/2025] Joey was hightlighted in [GetMobile](https://dl.acm.org/doi/10.1145/3714983.3714994) from ACM SIGMOBILE!
 * [11/2024] Invited to serve as TPC for [ACM SenSys 2025](https://sensys.acm.org/2025/), please consider submitting!
-* [10/2024] Invited to join the Editorial Board of ACM IMWUT as an Associate Editor, please consider submitting!
+* [10/2024] Invited to join the Editorial Board of [ACM IMWUT](https://dl.acm.org/journal/imwut) as an Associate Editor, please consider submitting!
 * [10/2024] Invited to serve as TPC for [ACM MobiSys 2025](https://sigmobile.org/mobisys/2025/), please consider submitting!
 * [10/2024] Humbled to be named the finalist for the [UbiComp/IMWUT Gaetano Borriello Outstanding Student Award](https://www.ubicomp.org/ubicomp-iswc-2024/awards/student-award/)!
 * [09/2024] Arrived in Hong Kong and officially started at HKUST!
