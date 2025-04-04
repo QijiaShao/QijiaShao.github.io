@@ -22,7 +22,7 @@ We are truly blessed and proud to work with an exceptional group of researchers 
 
 ### Visiting Students/RA
 * Zeyu Luo (RA, M.S. from HKUST) 2025 Spring - 
-* Yuchan Wang (RA, M.S. from HKUST) 2025 Spring - 
+* Yuchao Wang (RA, M.S. from HKUST) 2025 Spring - 
 * Junxiao Chen (Visiting student, Undergraduate @Tsinghua) 2025 Spring - 
 * Jiayuan Zhang (Visiting student, Undergraduate @UESTC) 2025 Spring - 
 * Ziyi Xu (Undergraduate @HKUST) 2025 Spring - 
