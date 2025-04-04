@@ -3,6 +3,11 @@ main:
   - title: "Selected Publications"
     url: /publications/
 
+  - title: "Ubiquitous X Lab"
+    url: /team/
+
+  - title: "Join US"
+    url: /student/
   # - title: "Media Coverage"
     # url: /media/    
 
@@ -18,8 +23,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Join US"
-    url: /student/
+
     
-  # - title: "Guide"
-  #   url: /markdown/
+
