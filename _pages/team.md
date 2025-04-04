@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-# Ubiquitous X Lab
+<!-- # Ubiquitous X Lab -->
 ### Exploring the Future, Enhancing Lives
 
 At Ubiquitous X Lab, we believe technology should be both innovative and meaningful. Our team collaborates on cutting-edge research to create impactful solutions that improve everyday life. We thrive on curiosity, creativity, and a shared passion for discovery.
