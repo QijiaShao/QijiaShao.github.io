@@ -8,7 +8,7 @@ author_profile: true
 <!-- # Ubiquitous X Lab -->
 ### Exploring the Future, Enhancing Lives
 
-At Ubiquitous X Lab, we believe technology should be both innovative and meaningful. Our team collaborates on cutting-edge research to create impactful solutions that improve everyday life. We thrive on curiosity, creativity, and a shared passion for discovery.
+At Ubiquitous X Lab, we believe technology should be both innovative and meaningful. Our  work lives where systems, human, and AI converge. We are driven by a deep purpose — using mobile & ubiquitous computing to "quietly" transform lives, especially in healthcare, education, and interaction. We thrive on curiosity, creativity, and a shared passion for discovery.
 
 We’re always looking for ​highly motivated postdoctoral researchers, Ph.D. students, and visiting scholars to join our dynamic team! If you’re excited about pushing boundaries in ubiquitous computing, human-centered AI and HCI,  please check our **[Join US](https://qijiashao.github.io/student/)** page for opportunities. 
 
