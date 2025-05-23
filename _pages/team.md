@@ -16,7 +16,8 @@ We’re always looking for ​highly motivated postdoctoral researchers, Ph.D. s
 We are truly blessed and proud to work with an exceptional group of researchers who bring diverse expertise and enthusiasm to every project.
 
 ### Postgraduate Students
-* Jiting Liu (Ph.D. student, M.S. from Columbia U) 2025 Fall - 
+* Jiting Liu (Ph.D. student, M.S. from Columbia U) 2025 Fall -
+* Jinhe Wen (Ph.D. student, M.S. from USCD) 2025 Fall -
 * Yujing Zhang (Ph.D. student, M.S. from KTH) 2025 Fall - 
 * Ziqi Liu (M.phil student, B.S. from Tsinghua U) 2025 Fall - 
 
@@ -24,5 +25,4 @@ We are truly blessed and proud to work with an exceptional group of researchers 
 * Zeyu Luo (RA, M.S. from HKUST) 2025 Spring - 
 * Yuchao Wang (RA, M.S. from HKUST) 2025 Spring - 
 * Junxiao Chen (Visiting student, Undergraduate @Tsinghua) 2025 Spring - 
-* Jiayuan Zhang (Visiting student, Undergraduate @UESTC) 2025 Spring - 
 * Ziyi Xu (Undergraduate @HKUST) 2025 Spring - 
