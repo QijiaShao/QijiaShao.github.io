@@ -53,6 +53,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
+* [03/2025] Serving as a Local Co-chair for [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html). See you all in Hong Kong!
 * [01/2025] Joey was hightlighted in [GetMobile](https://dl.acm.org/doi/10.1145/3714983.3714994) from ACM SIGMOBILE!
 * [11/2024] Invited to serve as TPC for [ACM SenSys 2025](https://sensys.acm.org/2025/), please consider submitting!
 * [10/2024] Invited to join the Editorial Board of [ACM IMWUT](https://dl.acm.org/journal/imwut) as an Associate Editor, please consider submitting!
