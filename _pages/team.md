@@ -19,7 +19,6 @@ We are truly blessed and proud to work with an exceptional group of researchers 
 * [Jiting Liu](https://jitingliu.github.io/) (Ph.D. student, M.S. from Columbia U, Redbird Scholarship) 2025 Fall -
 * [Jinhe Wen](https://jinhewen.owlstown.net/) (Ph.D. student, M.S. from UCSD) 2025 Fall -
 * [Yujing Zhang]() (Ph.D. student, M.S. from KTH) 2025 Fall - 
-* [Yuxuan Weng]() (Ph.D. student, M.S. from HKUST) 2025 Fall - 
 * [Ziqi Liu](https://ziqidennisliu.github.io/) (M.Phil student, B.S. from Tsinghua U) 2025 Fall - 
 
 ### Visiting Students/RA
