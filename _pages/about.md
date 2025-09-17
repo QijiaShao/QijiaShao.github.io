@@ -54,6 +54,7 @@ I play with various modalities of signals from both software and hardware sides.
 Recent News
 ======
 * [08/2025] Humbled to be featured as [IEEE Pervasive Computing's Emerging Rockstar](https://ieeexplore.ieee.org/document/11131431)!
+* [08/2025] Our paper **"My Pillow Knows My Sleep: Sleep Monitoring with Computational Fabrics in the Pillowcase"** has been accepted by IMWUT/[UbiComp2025](https://www.ubicomp.org/ubicomp-iswc-2025/). Though it doesn't yet match my ideal vision, this system represents a cool and effective design for passive sleep monitoring.  We can sense your ECG and neck EMG with your pillowcase, and you won't feel a thing!  For a deeper dive, see the paper [here](https://dl.acm.org/doi/10.1145/3749550)!
 * [03/2025] Serving as a Local Co-chair for [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html). See you all in Hong Kong!
 * [01/2025] Joey was highlighted in [GetMobile](https://dl.acm.org/doi/10.1145/3714983.3714994) from ACM SIGMOBILE!
 * [11/2024] Invited to serve as TPC for [ACM SenSys 2025](https://sensys.acm.org/2025/), please consider submitting!
