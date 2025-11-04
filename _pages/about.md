@@ -53,6 +53,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
+* [10/2025] Invited to serve as TPC for [ACM MobiSys 2026](https://sigmobile.org/mobisys/2026/), please consider submitting!
 * [08/2025] Humbled to be featured as [IEEE Pervasive Computing's Emerging Rockstar](https://ieeexplore.ieee.org/document/11131431)!
 * [08/2025] Our paper **"My Pillow Knows My Sleep: Sleep Monitoring with Computational Fabrics in the Pillowcase"** has been accepted by IMWUT/[UbiComp2025](https://www.ubicomp.org/ubicomp-iswc-2025/). Though it doesn't yet match my ideal vision, this system represents a cool and effective design for passive sleep monitoring.  We can sense your ECG and neck EMG with your pillowcase, and you won't feel a thing!  For a deeper dive, see the paper [here](https://dl.acm.org/doi/10.1145/3749550)!
 * [03/2025] Serving as a Local Co-chair for [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html). See you all in Hong Kong!
