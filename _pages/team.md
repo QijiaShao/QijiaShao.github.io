@@ -26,5 +26,6 @@ We are truly blessed and proud to work with an exceptional group of researchers 
 * [Zeyu Luo]() (RA, M.S. from HKUST) 2025 Spring - 
 * [Yuchao Wang]() (RA, M.S. from HKUST) 2025 Spring - 
 * [Junxiao Chen]() (Visiting student, Undergraduate @Tsinghua) 2025 Spring - 
-* [Ziyi Xu]() (Undergraduate @HKUST) 2025 Spring - 
+* [Ziyi Xu]() (Undergraduate @HKUST) 2025 Spring -
+* [Jerry Yue Gong]() (RA, M.S. @HKUST) 2025 Spring - 
 * [Xiangjie Tang]() (Visiting student, Undergraduate @Southeast) 2025 Summer - 
