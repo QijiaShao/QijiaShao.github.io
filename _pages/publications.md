@@ -6,6 +6,14 @@ author_profile: true
 ---
 <b>* Co-primary authors</b><br>
 
+
+<img src="http://qijiashao.github.io/images/publications/pillow.png" align="left" width="250" height="300"/> 
+<b>My Pillow Knows My Sleep: Sleep Monitoring with Computational Fabrics in the Pillowcase</b><br>
+<b>Qijia Shao</b>,  Junxiao Chen, Ho Man Colman Leung, Meiqi Zhao, Ruoyu Xu, Jiting Liu, Lisa Maria DiSalvo García, Xiaofan Jiang, Marie-Pierre St-Onge, and Xia Zhou.<br>
+<i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. Vol. 9, No. 3, Article 128, 2025  </i> <br>
+<i>[[PDF]](https://doi.org/10.1145/3749550)</i><br>
+<br clear="left"/>
+
 <img src="http://qijiashao.github.io/images/publications/RS.png" align="left" width="250" height="300"/> 
 <b>Weaving Physical and Physiological Sensing with Computational Fabrics</b><br>
 <b>Qijia Shao</b> <br>
