@@ -53,6 +53,7 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
+* [02/2026] [Joey](https://dl.acm.org/doi/abs/10.1145/3643832.3661867) has been selected as one of the [SIGMOBILE Research Highlights!](https://www.sigmobile.org/grav/publications/research-highlights)
 * [11/2025] Gave an a guest lecture titled [From Data to Action: Ubiquitous Systems Shaping Healthcare and Education]() at Yonsei University. Thank [Prof. JeongGil Ko](https://sites.google.com/site/jeonggilko) for the invitation!
 * [10/2025] Invited to serve as TPC for [ACM MobiSys 2026](https://sigmobile.org/mobisys/2026/), please consider submitting!
 * [08/2025] Humbled to be featured as [IEEE Pervasive Computing's Emerging Rockstar](https://ieeexplore.ieee.org/document/11131431)!
