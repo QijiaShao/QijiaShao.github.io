@@ -9,7 +9,8 @@ redirect_from:
   - /about.html
 ---
 <span style="color:red;"> **NEWS: We have multiple openings for Postdoc/PhDs/Visiting Students. 
-For more details, please refer to** [Join US](https://qijiashao.github.io/student/). **Thanks!**</span>
+For more details, please refer to [Join US](https://qijiashao.github.io/student/). Ph.D. applicants are highly encouraged to participate in an internship with me before applying for our Ph.D. program.
+Thanks!**</span>
 
 <div style="text-align: justify;">
 <p> Welcome! I am an Assistant Professor at <a href="https://hkust.edu.hk/"><strong>The Hong Kong University of Science and Technology (HKUST)</strong></a>. Prior to HKUST, I received my Ph.D. in Computer Science at <a href="https://www.columbia.edu/" style="color:#52adc8"><strong>Columbia University</strong></a> in 2024, under the supervision of <a href="https://www.cs.columbia.edu/~xia/">Prof. Xia Zhou</a> and <a href="http://fredjiang.com/">Prof. Fred Jiang</a>. I received my master's degree from <a href="https://home.dartmouth.edu/" style="color:Green"><strong>Dartmouth College</strong></a>, and my bachelor's degree from <a href="https://en.uestc.edu.cn/" style="color:#3A5BA1"><strong>UESTC</strong></a>. </p>
