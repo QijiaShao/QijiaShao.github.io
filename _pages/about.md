@@ -54,6 +54,9 @@ I play with various modalities of signals from both software and hardware sides.
 
 Recent News
 ======
+* [07/2026] Thrilled to receive the [Hong Kong RGC Early Career Award 2026]()! Excited for what’s ahead!
+* [07/2026] Invited to serve as TPC for [ACM MobiCom 2027](), please consider submitting!
+* [07/2026] The first batch of our group's papers are accpeted to  [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/index.html) x1 and [IMWUT/UbiComp2026](https://www.ubicomp.org/ubicomp-iswc-2026/) x2. Congrats to Jiting, Ziqi, Junxiao and the rest of the team! More details to come!
 * [02/2026] [Joey](https://dl.acm.org/doi/abs/10.1145/3643832.3661867) has been selected as one of the [SIGMOBILE Research Highlights!](https://www.sigmobile.org/grav/publications/research-highlights)
 * [11/2025] Gave an a guest lecture titled [From Data to Action: Ubiquitous Systems Shaping Healthcare and Education]() at Yonsei University. Thank [Prof. JeongGil Ko](https://sites.google.com/site/jeonggilko) for the invitation!
 * [10/2025] Invited to serve as TPC for [ACM MobiSys 2026](https://sigmobile.org/mobisys/2026/), please consider submitting!
