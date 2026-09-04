@@ -70,7 +70,7 @@ classes: wide
 
   color: var(--uxlab-text);
 
-  font-size: clamp(2.5rem, 3.6vw, 4.2rem);
+  font-size: clamp(2.1rem, 3vw, 3.6rem);
   font-weight: 800;
 
   letter-spacing: -0.035em;
@@ -351,8 +351,7 @@ classes: wide
 
 
     <h1 id="uxlab-title" class="uxlab-hero__title">
-    Ubiquitous <span class="uxlab-accent">X</span><br>
-    Lab
+    Ubiquitous <span class="uxlab-accent">X</span> Lab
     </h1>
 
 
@@ -384,7 +383,6 @@ classes: wide
       <a href="#our-team">
         Our Team
       </a>
-
       <a href="{{ '/student/' | relative_url }}">
         Join Us
       </a>
