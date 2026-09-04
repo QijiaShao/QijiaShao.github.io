@@ -380,14 +380,19 @@ classes: wide
       aria-label="Lab links"
     >
 
-      <a href="#our-team">
-        Our Team
+      <a
+        href="https://www.youtube.com/@UbiquitousX-HKUST"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        YouTube
       </a>
+
       <a href="{{ '/student/' | relative_url }}">
         Join Us
       </a>
 
-    </nav>
+</nav>
 
   </div>
 
@@ -441,73 +446,16 @@ classes: wide
 
 
 
-<h2 id="our-team">
-  Our Team
-</h2>
-
+## Our Team
 We are truly blessed and proud to work with an exceptional group of researchers who bring diverse expertise and enthusiasm to every project.
 
-
 ### Postgraduate Students
-
-<div class="student-grid">
-
-  <article class="student-card">
-    <a href="https://jitingliu.github.io/" target="_blank" rel="noopener noreferrer">
-      <img class="student-photo" src="{{ '/assets/images/team/jiting-liu.jpg' | relative_url }}" alt="Photo of Jiting Liu">
-    </a>
-    <h4><a href="https://jitingliu.github.io/" target="_blank" rel="noopener noreferrer">Jiting Liu</a></h4>
-    <p>Ph.D. student</p>
-    <p>M.S. from Columbia U<br>Redbird Scholarship</p>
-    <p class="student-date">2025 Fall –</p>
-  </article>
-
-  <article class="student-card">
-    <a href="https://jinhewen.owlstown.net/" target="_blank" rel="noopener noreferrer">
-      <img class="student-photo" src="{{ '/assets/images/team/jinhe-wen.jpg' | relative_url }}" alt="Photo of Jinhe Wen">
-    </a>
-    <h4><a href="https://jinhewen.owlstown.net/" target="_blank" rel="noopener noreferrer">Jinhe Wen</a></h4>
-    <p>Ph.D. student</p>
-    <p>M.S. from UCSD</p>
-    <p class="student-date">2025 Fall –</p>
-  </article>
-
-  <article class="student-card">
-    <img class="student-photo" src="{{ '/assets/images/team/yujing-zhang.jpg' | relative_url }}" alt="Photo of Yujing Zhang">
-    <h4>Yujing Zhang</h4>
-    <p>Ph.D. student</p>
-    <p>M.S. from KTH</p>
-    <p class="student-date">2025 Fall –</p>
-  </article>
-
-  <article class="student-card">
-    <img class="student-photo" src="{{ '/assets/images/team/yuxuan-weng.jpg' | relative_url }}" alt="Photo of Yuxuan Weng">
-    <h4>Yuxuan Weng</h4>
-    <p>Ph.D. student</p>
-    <p>M.S. from HKUST</p>
-    <p class="student-date">2025 Fall –</p>
-  </article>
-
-  <article class="student-card">
-    <a href="https://ziqidennisliu.github.io/" target="_blank" rel="noopener noreferrer">
-      <img class="student-photo" src="{{ '/assets/images/team/ziqi-liu.jpg' | relative_url }}" alt="Photo of Ziqi Liu">
-    </a>
-    <h4><a href="https://ziqidennisliu.github.io/" target="_blank" rel="noopener noreferrer">Ziqi Liu</a></h4>
-    <p>M.Phil student</p>
-    <p>B.S. from Tsinghua U</p>
-    <p class="student-date">2025 Fall –</p>
-  </article>
-
-  <article class="student-card">
-    <img class="student-photo" src="{{ '/assets/images/team/junxiao-chen.jpg' | relative_url }}" alt="Photo of Junxiao Chen">
-    <h4>Junxiao Chen</h4>
-    <p>Ph.D. student</p>
-    <p>B.S. from Tsinghua U</p>
-    <p class="student-date">2026 Fall –</p>
-  </article>
-
-
-</div>
+* [Jiting Liu](https://jitingliu.github.io/) (Ph.D. student, M.S. from Columbia U, Redbird Scholarship) 2025 Fall -
+* [Jinhe Wen](https://jinhewen.owlstown.net/) (Ph.D. student, M.S. from UCSD) 2025 Fall -
+* [Yujing Zhang]() (Ph.D. student, M.S. from KTH) 2025 Fall -
+* [Yuxuan Weng]() (Ph.D. student, M.S. from HKUST) 2025 Fall - 
+* [Ziqi Liu](https://ziqidennisliu.github.io/) (M.Phil student, B.S. from Tsinghua U) 2025 Fall - 
+* [Junxiao Chen]() (Ph.D. student, B.S. from Tsinghua U) 2026 Fall - 
 
 ### Visiting Students/RA
 * [Zeyu Luo]() (RA, M.S. from HKUST) 2025 Spring - 
