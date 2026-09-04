@@ -70,7 +70,7 @@ classes: wide
 
   color: var(--uxlab-text);
 
-  font-size: clamp(2.8rem, 4.1vw, 4.8rem);
+  font-size: clamp(2.5rem, 3.6vw, 4.2rem);
   font-weight: 800;
 
   letter-spacing: -0.035em;
@@ -176,7 +176,7 @@ classes: wide
      The GIF has considerable whitespace.
      Increase/decrease this number if needed.
   */
-  transform: scale(1.42);
+  transform: scale(1.45);
   transform-origin: center;
 }
 
@@ -350,16 +350,9 @@ classes: wide
     </p>
 
 
-    <h1
-      id="uxlab-title"
-      class="uxlab-hero__title"
-    >
-      Ubiquitous
-      <span class="uxlab-accent">X</span>
-
-      <span class="uxlab-title-line">
-        Lab
-      </span>
+    <h1 id="uxlab-title" class="uxlab-hero__title">
+    Ubiquitous <span class="uxlab-accent">X</span><br>
+    Lab
     </h1>
 
 
