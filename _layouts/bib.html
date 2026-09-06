@@ -43,62 +43,33 @@
 
 
     <!-- Authors -->
-    <div class="publication-authors">
+<div class="publication-authors">
+  {% assign equal_names = entry.equal | default: "" | downcase | remove: " " | split: "," %}
+  {% assign advisee_names = entry.advisee | default: "" | downcase | remove: " " | split: "||" %}
 
-      {% assign equal_names = entry.equal
-        | default: ""
-        | downcase
-        | remove: " "
-        | split: "," %}
+  {% for author in entry.author_array %}
+    {% assign author_last_key = author.last | downcase | remove: " " %}
+    {% capture author_name %}{{ author.first }} {{ author.last }}{% endcapture %}
+    {% assign author_name_clean = author_name | strip %}
+    {% assign author_name_key = author_name_clean | downcase | remove: " " %}
 
-      {% assign advisee_names = entry.advisee
-        | default: ""
-        | downcase
-        | remove: " "
-        | split: "||" %}
+    {%- if site.scholar.last_name contains author.last -%}
+      <strong>{{ author_name_clean }}</strong>
+    {%- elsif advisee_names contains author_name_key -%}
+      <span class="publication-advisee">{{ author_name_clean }}</span>
+    {%- else -%}
+      {{ author_name_clean }}
+    {%- endif -%}
 
-      {% for author in entry.author_array %}
+    {%- if equal_names contains author_last_key -%}
+      <sup class="publication-equal">*</sup>
+    {%- endif -%}
 
-        {% assign author_last_key = author.last
-          | downcase
-          | remove: " " %}
-
-        {% capture author_name %}
-          {{ author.first }} {{ author.last }}
-        {% endcapture %}
-
-        {% assign author_name_clean = author_name | strip %}
-
-        {% assign author_name_key = author_name_clean
-          | downcase
-          | remove: " " %}
-
-        {% if site.scholar.last_name contains author.last %}
-          <strong>{{ author_name_clean }}</strong>
-
-        {% elsif advisee_names contains author_name_key %}
-          <span class="publication-advisee">
-            {{ author_name_clean }}
-          </span>
-
-        {% else %}
-          {{ author_name_clean }}
-        {% endif %}
-
-        {% if equal_names contains author_last_key %}
-          <sup class="publication-equal">*</sup>
-        {% endif %}
-
-        {% unless forloop.last %}
-          {% if forloop.rindex == 2 %}
-            , and
-          {% else %}
-            ,
-          {% endif %}
-        {% endunless %}
-
-      {% endfor %}
-    </div>
+    {%- unless forloop.last -%}
+      {%- if forloop.rindex == 2 -%}, and {% else %}, {% endif -%}
+    {%- endunless -%}
+  {% endfor %}
+</div>
 
 
     <!-- Venue / Journal / Conference -->
