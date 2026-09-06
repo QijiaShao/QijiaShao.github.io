@@ -9,9 +9,9 @@ classes: wide
 <p class="publication-note"><sup>*</sup> Co-primary authors</p>
 
 {% assign papers = "
-weaving2024,
 pillow2025,
 joey2024,
+weaving2024,
 spo22024,
 neuro2023,
 sunflower2022,
