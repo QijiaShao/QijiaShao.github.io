@@ -29,10 +29,10 @@ classes: wide
 
   width: 100%;
   max-width: 1450px;
-  min-height: min(68vh, 700px);
+  min-height:auto;
 
   margin: 0 auto;
-  padding: clamp(2.5rem, 5vw, 5rem) 0;
+  padding: 2rem 0 3rem;
 }
 
 
@@ -419,7 +419,7 @@ classes: wide
 
 
 
-<div class="uxlab-intro">
+<!-- <div class="uxlab-intro">
 
   <p>
     At Ubiquitous X Lab, we believe technology should be both
@@ -442,7 +442,7 @@ classes: wide
     page for current opportunities.
   </p>
 
-</div>
+</div> -->
 
 
 
