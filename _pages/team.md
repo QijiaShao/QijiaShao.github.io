@@ -93,7 +93,7 @@ classes: wide
 
 /* Main description */
 .uxlab-hero__lead {
-  max-width: 40rem;
+  max-width: 48rem;
 
   margin: 2rem 0 0;
 
@@ -101,6 +101,9 @@ classes: wide
 
   font-size: clamp(1rem, 1.25vw, 1.3rem);
   line-height: 1.65;
+
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 
@@ -605,9 +608,9 @@ We are truly blessed and proud to work with an exceptional group of researchers 
 ### Visiting Students/RA
 * [Zeyu Luo]() (RA, M.S. from HKUST) 2025 Spring - 
 * [Jerry Yue Gong]() (RA, M.S. @HKUST) 2025 Spring - 
-* [Xuye You]() (HKUST Undergraduate, M.S. @HKUST) 2026 Summer - 
-* [Madi Liang]() (RA, M.S. Queensland) 2026 Summer - 
-* [Sibo Wang]() (Visiting Student, M.S. Tongji) 2026 Summer - 
+* [Xuye You]() (Undergraduate @HKUST) 2026 Summer - 
+* [Madi Liang]() (RA, M.S. from Queensland) 2026 Summer - 
+* [Sibo Wang]() (Visiting Student, M.S. @Tongji) 2026 Summer - 
 
 
 ### Alumni
