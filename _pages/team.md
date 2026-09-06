@@ -7,9 +7,22 @@ classes: wide
 ---
 
 <style>
+
+  /* =========================================================
+   GLOBAL LAB COLORS
+   ========================================================= */
+
+:root {
+  --uxlab-accent: #f2ad00;
+  --uxlab-text: #111111;
+  --uxlab-muted: #5e5e5e;
+}
+
+
 /* =========================================================
    Ubiquitous X Lab Hero
    ========================================================= */
+
 
 .uxlab-hero,
 .uxlab-hero * {
@@ -329,6 +342,29 @@ classes: wide
 }
 
 
+/* =========================================================
+   TEAM SECTION
+   ========================================================= */
+
+.uxlab-team-section {
+  margin-top: 1rem;
+}
+
+/* All normal links in the team section use the lab accent */
+.uxlab-team-section a,
+.uxlab-team-section a:visited {
+  color: var(--uxlab-accent) !important;
+  text-decoration: none !important;
+}
+
+.uxlab-team-section a:hover,
+.uxlab-team-section a:focus,
+.uxlab-team-section a:focus-visible {
+  color: var(--uxlab-accent) !important;
+  text-decoration: underline !important;
+  text-decoration-color: var(--uxlab-accent) !important;
+  text-underline-offset: 0.12em;
+}
 
 
 /* =========================================================
