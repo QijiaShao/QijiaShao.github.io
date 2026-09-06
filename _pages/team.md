@@ -45,7 +45,7 @@ classes: wide
   min-height:auto;
 
   margin: 0 auto;
-  padding: 0.5rem 0 3rem;
+  padding: 0.5rem 0 1rem;
 }
 
 
@@ -347,7 +347,7 @@ classes: wide
    ========================================================= */
 
 .uxlab-team-section {
-  margin-top: 1rem;
+  margin-top: 0;
 }
 
 /* All normal links in the team section use the lab accent */
