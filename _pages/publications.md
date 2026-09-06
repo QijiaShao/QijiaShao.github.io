@@ -6,7 +6,10 @@ author_profile: true
 classes: wide
 ---
 
-<p class="publication-note"><sup>*</sup> Co-primary authors</p>
+<p class="publication-note">
+  <span class="publication-advisee">Underlined</span> are my direct advisees.
+  <sup>*</sup> marks co-primary authors.
+</p>
 
 {% assign papers = "
 pillow2025,
@@ -18,8 +21,7 @@ sunflower2022,
 facesense2021,
 teachasl2020,
 threadsense2020,
-<!-- polartag2020, -->
-joint2019
+joint2019,
 " | split: "," %}
 
 <div class="publication-list">
