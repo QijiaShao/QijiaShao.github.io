@@ -45,7 +45,7 @@ classes: wide
   min-height:auto;
 
   margin: 0 auto;
-  padding: 0.5rem 0 1rem;
+  padding: 0.2rem 0 0.2rem;
 }
 
 
