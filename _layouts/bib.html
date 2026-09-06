@@ -1,0 +1,74 @@
+---
+---
+{% assign teaser = site.data.publication_teasers[entry.abbr] %}
+{% assign title_url = entry.link | default: entry.pdf %}
+
+<article id="{{ entry.key }}" class="publication-card{% unless teaser and teaser.img %} publication-card--no-media{% endunless %}">
+  {% if teaser and teaser.img %}
+    <div class="publication-media">
+      {% if teaser.url %}<a href="{{ teaser.url | escape }}" target="_blank" rel="noopener noreferrer">{% endif %}
+        <img
+          class="publication-teaser"
+          src="{{ teaser.img | relative_url }}"
+          alt="Teaser image for {{ entry.title | strip_html | escape }}"
+          loading="lazy"
+          decoding="async">
+      {% if teaser.url %}</a>{% endif %}
+    </div>
+  {% endif %}
+
+  <div class="publication-body">
+    <h2 class="publication-title">
+      {% if title_url %}<a href="{{ title_url | escape }}" target="_blank" rel="noopener noreferrer">{% endif %}
+        {{ entry.title }}
+      {% if title_url %}</a>{% endif %}
+    </h2>
+
+    <div class="publication-authors">
+      {% assign equal_names = entry.equal | default: "" | downcase | remove: " " | split: "," %}
+      {% for author in entry.author_array %}
+        {% assign author_last_key = author.last | downcase | remove: " " %}
+        {% capture author_name %}{{ author.first }} {{ author.last }}{% endcapture %}
+        {% if site.scholar.last_name contains author.last %}
+          <strong>{{ author_name | strip }}</strong>
+        {% else %}
+          {{ author_name | strip }}
+        {% endif %}{% if equal_names contains author_last_key %}<sup class="publication-equal">*</sup>{% endif %}{% unless forloop.last %}{% if forloop.rindex == 2 %}, and {% else %}, {% endif %}{% endunless %}
+      {% endfor %}
+    </div>
+
+    {% assign venue = entry.venue | default: entry.journal | default: entry.booktitle %}
+    <div class="publication-periodical">
+      {% if venue %}<span class="publication-venue">{{ venue }}</span>{% endif %}
+      {% if entry.year %}
+        <span class="publication-year">{% if entry.month %}{{ entry.month }} {% endif %}{{ entry.year }}</span>
+      {% endif %}
+    </div>
+
+    <div class="publication-links" aria-label="Links for {{ entry.title | strip_html | escape }}">
+      {% if entry.pdf %}<a class="publication-link" href="{{ entry.pdf | escape }}" target="_blank" rel="noopener noreferrer">PDF</a>{% endif %}
+      {% if entry.video %}<a class="publication-link publication-link--video" href="{{ entry.video | escape }}" target="_blank" rel="noopener noreferrer">Video</a>{% endif %}
+      {% if entry.teaser %}<a class="publication-link publication-link--video" href="{{ entry.teaser | escape }}" target="_blank" rel="noopener noreferrer">Teaser</a>{% endif %}
+      {% if entry.talk %}<a class="publication-link" href="{{ entry.talk | escape }}" target="_blank" rel="noopener noreferrer">Talk</a>{% endif %}
+      {% if entry.presentation %}<a class="publication-link" href="{{ entry.presentation | escape }}" target="_blank" rel="noopener noreferrer">Presentation</a>{% endif %}
+      {% if entry.code %}<a class="publication-link publication-link--code" href="{{ entry.code | escape }}" target="_blank" rel="noopener noreferrer">Code</a>{% endif %}
+      {% if entry.feature %}<a class="publication-link" href="{{ entry.feature | escape }}" target="_blank" rel="noopener noreferrer">Media</a>{% endif %}
+
+      {% if entry.abstract %}
+        <details class="publication-abstract">
+          <summary class="publication-link">Abstract</summary>
+          <div class="publication-abstract__body">{{ entry.abstract }}</div>
+        </details>
+      {% endif %}
+    </div>
+
+    {% if entry.highlight %}
+      <div class="publication-highlights">
+        {% assign highlights = entry.highlight | split: "||" %}
+        {% for highlight in highlights %}
+          <span class="publication-badge">{{ highlight | strip }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</article>
