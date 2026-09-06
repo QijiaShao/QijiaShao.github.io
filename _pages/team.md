@@ -32,7 +32,7 @@ classes: wide
   min-height:auto;
 
   margin: 0 auto;
-  padding: 2rem 0 3rem;
+  padding: 1rem 0 3rem;
 }
 
 
@@ -323,6 +323,87 @@ classes: wide
 }
 
 
+
+
+/* =========================================================
+   POSTGRADUATE STUDENT GRID
+   ========================================================= */
+
+.uxlab-student-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 3.5rem;
+}
+
+.uxlab-student-card {
+  min-width: 0;
+  text-align: center;
+}
+
+.uxlab-student-photo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 14px;
+  background: #f3f3f3;
+}
+
+.uxlab-student-photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+  object-position: center;
+  transition: transform 180ms ease;
+}
+
+.uxlab-student-card a:hover .uxlab-student-photo img {
+  transform: scale(1.025);
+}
+
+.uxlab-student-name {
+  margin-top: 0.9rem;
+  margin-bottom: 0.22rem;
+  font-size: 1.12rem;
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.uxlab-student-name a {
+  color: #111111;
+  text-decoration: none !important;
+}
+
+.uxlab-student-name a:hover,
+.uxlab-student-name a:focus-visible {
+  color: #bd8500;
+  text-decoration: none !important;
+}
+
+.uxlab-student-info {
+  margin: 0;
+  color: #666666;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 850px) {
+  .uxlab-student-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .uxlab-student-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}
+
+
 /* =========================================================
    ACCESSIBILITY
    ========================================================= */
@@ -450,12 +531,95 @@ classes: wide
 We are truly blessed and proud to work with an exceptional group of researchers who bring diverse expertise and enthusiasm to every project.
 
 ### Postgraduate Students
-* [Jiting Liu](https://jitingliu.github.io/) (Ph.D. student, M.S. from Columbia U, Redbird Scholarship) 2025 Fall -
-* [Jinhe Wen](https://jinhewen.owlstown.net/) (Ph.D. student, M.S. from UCSD) 2025 Fall -
-* [Yujing Zhang]() (Ph.D. student, M.S. from KTH) 2025 Fall -
-* [Yuxuan Weng]() (Ph.D. student, M.S. from HKUST) 2025 Fall - 
-* [Ziqi Liu](https://ziqidennisliu.github.io/) (M.Phil student, B.S. from Tsinghua U) 2025 Fall - 
-* [Junxiao Chen]() (Ph.D. student, B.S. from Tsinghua U) 2026 Fall - 
+
+<div class="uxlab-student-grid">
+
+  <div class="uxlab-student-card">
+    <a href="https://jitingliu.github.io/" target="_blank" rel="noopener noreferrer">
+      <div class="uxlab-student-photo">
+        <img src="{{ '/images/lab/people/jiting-liu.jpg' | relative_url }}" alt="Jiting Liu">
+      </div>
+    </a>
+    <div class="uxlab-student-name">
+      <a href="https://jitingliu.github.io/" target="_blank" rel="noopener noreferrer">Jiting Liu</a>
+    </div>
+    <p class="uxlab-student-info">
+      Ph.D. Student<br>
+      M.S. from Columbia University<br>
+      Redbird Scholarship<br>
+      2025 Fall –
+    </p>
+  </div>
+
+  <div class="uxlab-student-card">
+    <a href="https://jinhewen.owlstown.net/" target="_blank" rel="noopener noreferrer">
+      <div class="uxlab-student-photo">
+        <img src="{{ '/images/lab/people/jinhe-wen.jpg' | relative_url }}" alt="Jinhe Wen">
+      </div>
+    </a>
+    <div class="uxlab-student-name">
+      <a href="https://jinhewen.owlstown.net/" target="_blank" rel="noopener noreferrer">Jinhe Wen</a>
+    </div>
+    <p class="uxlab-student-info">
+      Ph.D. Student<br>
+      M.S. from UCSD<br>
+      2025 Fall –
+    </p>
+  </div>
+
+  <div class="uxlab-student-card">
+    <div class="uxlab-student-photo">
+      <img src="{{ '/images/lab/people/yujing-zhang.jpg' | relative_url }}" alt="Yujing Zhang">
+    </div>
+    <div class="uxlab-student-name">Yujing Zhang</div>
+    <p class="uxlab-student-info">
+      Ph.D. Student<br>
+      M.S. from KTH<br>
+      2025 Fall –
+    </p>
+  </div>
+
+  <div class="uxlab-student-card">
+    <div class="uxlab-student-photo">
+      <img src="{{ '/images/lab/people/yuxuan-weng.jpg' | relative_url }}" alt="Yuxuan Weng">
+    </div>
+    <div class="uxlab-student-name">Yuxuan Weng</div>
+    <p class="uxlab-student-info">
+      Ph.D. Student<br>
+      M.S. from HKUST<br>
+      2025 Fall –
+    </p>
+  </div>
+
+  <div class="uxlab-student-card">
+    <a href="https://ziqidennisliu.github.io/" target="_blank" rel="noopener noreferrer">
+      <div class="uxlab-student-photo">
+        <img src="{{ '/images/lab/people/ziqi-liu.jpg' | relative_url }}" alt="Ziqi Liu">
+      </div>
+    </a>
+    <div class="uxlab-student-name">
+      <a href="https://ziqidennisliu.github.io/" target="_blank" rel="noopener noreferrer">Ziqi Liu</a>
+    </div>
+    <p class="uxlab-student-info">
+      M.Phil Student<br>
+      B.S. from Tsinghua University<br>
+      2025 Fall –
+    </p>
+  </div>
+
+  <div class="uxlab-student-card">
+    <div class="uxlab-student-photo">
+      <img src="{{ '/images/lab/people/junxiao-chen.jpg' | relative_url }}" alt="Junxiao Chen">
+    </div>
+    <div class="uxlab-student-name">Junxiao Chen</div>
+    <p class="uxlab-student-info">
+      Ph.D. Student<br>
+      B.S. from Tsinghua University<br>
+      2026 Fall –
+    </p>
+  </div>
+
+</div>
 
 ### Visiting Students/RA
 * [Zeyu Luo]() (RA, M.S. from HKUST) 2025 Spring - 
