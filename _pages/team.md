@@ -124,8 +124,7 @@ classes: wide
   font-size: clamp(0.95rem, 1.05vw, 1.1rem);
   font-weight: 800;
 
-  text-decoration: none;
-
+  text-decoration: none !important;
   border-bottom: 2px solid transparent;
 
   transition:
@@ -133,10 +132,14 @@ classes: wide
     border-color 160ms ease;
 }
 
-
 .uxlab-hero__links a:hover,
-.uxlab-hero__links a:focus-visible {
-  color: #bd8500;
+.uxlab-hero__links a:focus,
+.uxlab-hero__links a:focus-visible,
+.uxlab-hero__links a:active {
+  color: var(--uxlab-accent) !important;
+
+  text-decoration: none !important;
+
   border-bottom-color: var(--uxlab-accent);
 }
 
