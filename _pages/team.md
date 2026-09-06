@@ -443,7 +443,7 @@ classes: wide
 
 
     <p class="uxlab-hero__lead">
-
+      At Ubiquitous X Lab, we believe technology should be both innovative and meaningful. 
       We create
 
       <span class="uxlab-accent">
@@ -505,31 +505,6 @@ classes: wide
 </section>
 
 
-
-<!-- <div class="uxlab-intro">
-
-  <p>
-    At Ubiquitous X Lab, we believe technology should be both
-    innovative and meaningful. Our work lives where systems, humans,
-    and AI converge. We are driven by a deep purpose — using mobile
-    and ubiquitous computing to quietly transform lives, especially
-    in healthcare, education, and interaction.
-  </p>
-
-  <p>
-    We thrive on curiosity, creativity, and a shared passion for
-    discovery. We are always looking for highly motivated
-    postdoctoral researchers, Ph.D. students, and visiting scholars.
-    Please visit our
-    <strong>
-      <a href="{{ '/student/' | relative_url }}">
-        Join Us
-      </a>
-    </strong>
-    page for current opportunities.
-  </p>
-
-</div> -->
 
 
 
@@ -630,6 +605,9 @@ We are truly blessed and proud to work with an exceptional group of researchers 
 ### Visiting Students/RA
 * [Zeyu Luo]() (RA, M.S. from HKUST) 2025 Spring - 
 * [Jerry Yue Gong]() (RA, M.S. @HKUST) 2025 Spring - 
+* [Xuye You]() (HKUST Undergraduate, M.S. @HKUST) 2026 Summer - 
+* [Madi Liang]() (RA, M.S. Queensland) 2026 Summer - 
+* [Sibo Wang]() (Visiting Student, M.S. Tongji) 2026 Summer - 
 
 
 ### Alumni
