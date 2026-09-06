@@ -331,8 +331,8 @@ classes: wide
 
 .uxlab-student-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.6rem;
   margin-top: 1.5rem;
   margin-bottom: 3.5rem;
 }
@@ -390,7 +390,13 @@ classes: wide
   line-height: 1.5;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1000px) {
+  .uxlab-student-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 750px) {
   .uxlab-student-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
