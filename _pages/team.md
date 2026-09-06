@@ -514,6 +514,24 @@ classes: wide
 ## Our Team
 We are truly blessed and proud to work with an exceptional group of researchers who bring diverse expertise and enthusiasm to every project.
 
+### Faculty
+<div class="uxlab-student-grid">
+
+  <div class="uxlab-student-card">
+    <a href="https://qijiashao.github.io/" target="_blank" rel="noopener noreferrer">
+      <div class="uxlab-student-photo">
+        <img src="{{ '/images/lab/people/qijia-shao.jpg' | relative_url }}" alt="Qijia Shao">
+      </div>
+    </a>
+    <div class="uxlab-student-name">
+      <a href="qijiashao.github.io/" target="_blank" rel="noopener noreferrer">Qijia Shao</a>
+    </div>
+    <p class="uxlab-student-info">
+      PI / Assistant Professor
+    </p>
+  </div>
+</div>
+
 ### Postgraduate Students
 
 <div class="uxlab-student-grid">
