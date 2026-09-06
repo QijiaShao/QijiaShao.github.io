@@ -248,3 +248,77 @@ $publication-title: #222 !default;
     margin: 0;
   }
 }
+
+/* ==========================================================
+   Publication refinements: natural image sizes + HKUST gold
+   ========================================================== */
+
+/* Let each image use its original proportions.
+   Do not force different figures into a shared 16:10 frame. */
+.publication-media {
+  min-width: 0;
+  align-self: start;
+}
+
+.publication-teaser {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+
+  height: auto;
+  max-height: none;
+  aspect-ratio: auto;
+
+  object-fit: contain;
+  object-position: center;
+
+  margin: 0;
+  padding: 0;
+
+  /* Remove the artificial gray frame and avoid clipping corners. */
+  background: transparent;
+  border-radius: 0;
+}
+
+/* Replace the hard-coded orange video/teaser styling. */
+.publication-link--video {
+  color: $publication-accent;
+  border-color: rgba($publication-accent, 0.55);
+  background: rgba($publication-accent, 0.07);
+}
+
+/* Replace the hard-coded orange code-button border. */
+.publication-link--code {
+  border-color: rgba($publication-accent, 0.40);
+}
+
+/* Consistent hover and keyboard-focus styling. */
+.publication-link:hover,
+.publication-link:focus-visible,
+.publication-abstract > summary:hover,
+.publication-abstract > summary:focus-visible {
+  color: mix(#000, $publication-accent, 15%);
+  border-color: $publication-accent;
+  background: rgba($publication-accent, 0.08);
+  text-decoration: none;
+}
+
+/* Gold award accents with slightly darker text for readability. */
+.publication-badge {
+  color: mix(#000, $publication-accent, 15%);
+  border-left-color: $publication-accent;
+  background: rgba($publication-accent, 0.09);
+}
+
+/* Keep images reasonably sized in the single-column mobile layout.
+   Limit width, not height, so their proportions are preserved. */
+@media (max-width: 760px) {
+  .publication-media {
+    max-width: 280px;
+  }
+
+  .publication-teaser {
+    height: auto;
+    max-height: none;
+  }
+}
