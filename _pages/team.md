@@ -102,8 +102,8 @@ classes: wide
   font-size: clamp(1rem, 1.25vw, 1.3rem);
   line-height: 1.65;
 
-  text-align: justify;
-  text-justify: inter-word;
+  /* text-align: justify;
+  text-justify: inter-word; */
 }
 
 
