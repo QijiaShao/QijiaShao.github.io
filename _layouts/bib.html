@@ -24,26 +24,33 @@
       {% if title_url %}</a>{% endif %}
     </h2>
 
-    <div class="publication-authors">
-      {% assign equal_names = entry.equal | default: "" | downcase | remove: " " | split: "," %}
-      {% for author in entry.author_array %}
-        {% assign author_last_key = author.last | downcase | remove: " " %}
-        {% capture author_name %}{{ author.first }} {{ author.last }}{% endcapture %}
-        {% if site.scholar.last_name contains author.last %}
-          <strong>{{ author_name | strip }}</strong>
-        {% else %}
-          {{ author_name | strip }}
-        {% endif %}{% if equal_names contains author_last_key %}<sup class="publication-equal">*</sup>{% endif %}{% unless forloop.last %}{% if forloop.rindex == 2 %}, and {% else %}, {% endif %}{% endunless %}
-      {% endfor %}
-    </div>
+  <div class="publication-authors">
+    {% assign equal_names = entry.equal | default: "" | downcase | remove: " " | split: "," %}
+    {% assign advisee_names = entry.advisee | default: "" | downcase | remove: " " | split: "||" %}
 
-    {% assign venue = entry.venue | default: entry.journal | default: entry.booktitle %}
-    <div class="publication-periodical">
-      {% if venue %}<span class="publication-venue">{{ venue }}</span>{% endif %}
-      {% if entry.year %}
-        <span class="publication-year">{% if entry.month %}{{ entry.month }} {% endif %}{{ entry.year }}</span>
+    {% for author in entry.author_array %}
+      {% assign author_last_key = author.last | downcase | remove: " " %}
+      {% capture author_name %}{{ author.first }} {{ author.last }}{% endcapture %}
+      {% assign author_name_clean = author_name | strip %}
+      {% assign author_name_key = author_name_clean | downcase | remove: " " %}
+
+      {% if site.scholar.last_name contains author.last %}
+        <strong>{{ author_name_clean }}</strong>
+      {% elsif advisee_names contains author_name_key %}
+        <span class="publication-advisee">{{ author_name_clean }}</span>
+      {% else %}
+        {{ author_name_clean }}
       {% endif %}
-    </div>
+
+      {% if equal_names contains author_last_key %}
+        <sup class="publication-equal">*</sup>
+      {% endif %}
+
+      {% unless forloop.last %}
+        {% if forloop.rindex == 2 %}, and {% else %}, {% endif %}
+      {% endunless %}
+    {% endfor %}
+  </div>
 
     <div class="publication-links" aria-label="Links for {{ entry.title | strip_html | escape }}">
       {% if entry.pdf %}<a class="publication-link" href="{{ entry.pdf | escape }}" target="_blank" rel="noopener noreferrer">PDF</a>{% endif %}

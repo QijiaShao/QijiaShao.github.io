@@ -1,3 +1,18 @@
+swimhr:
+  img: /images/publications/swimhr.png
+
+careassist:
+  img: /images/publications/careassist.png
+
+pretap:
+  img: /images/publications/pretap.png
+
+codesensei:
+  img: /images/publications/codesensei.png
+
+easycog:
+  img: /images/publications/easycog.png
+
 pillow:
   img: /images/publications/pillow.png
 
@@ -17,7 +32,7 @@ sunflower:
   img: /images/publications/sunflower.png
 
 facesense:
-  img: /images/publications/facesense2.png
+  img: /images/publications/facesense.png
 
 teachasl:
   img: /images/publications/teachASL.png

@@ -12,6 +12,11 @@ classes: wide
 </p>
 
 {% assign papers = "
+swimhr2026,
+careassist2026,
+pretap2026,
+codesensei2026,
+easycog2026,
 pillow2025,
 joey2024,
 weaving2024,

@@ -104,6 +104,14 @@ $publication-title: #222 !default;
   font-weight: 700;
 }
 
+.publication-advisee {
+  color: inherit;
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.12em;
+  text-decoration-skip-ink: auto;
+}
+
 .publication-periodical {
   display: flex;
   flex-wrap: wrap;
