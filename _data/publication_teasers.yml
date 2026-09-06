@@ -1,0 +1,32 @@
+pillow:
+  img: /images/publications/pillow.png
+
+weaving:
+  img: /images/publications/RS.png
+
+joey:
+  img: /images/publications/joey.png
+
+spo2:
+  img: /images/publications/spo2.png
+
+neuro:
+  img: /images/publications/N-euro.png
+
+sunflower:
+  img: /images/publications/sunflower.png
+
+facesense:
+  img: /images/publications/facesense2.png
+
+teachasl:
+  img: /images/publications/teachASL.png
+
+threadsense:
+  img: /images/publications/thread.png
+
+polartag:
+  img: /images/publications/polarTag.png
+
+joint:
+  img: /images/publications/joint.png
