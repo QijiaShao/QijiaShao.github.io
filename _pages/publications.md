@@ -18,7 +18,7 @@ sunflower2022,
 facesense2021,
 teachasl2020,
 threadsense2020,
-polartag2020,
+<!-- polartag2020, -->
 joint2019
 " | split: "," %}
 
