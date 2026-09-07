@@ -36,7 +36,7 @@ classes: wide
 
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) minmax(400px, 0.8fr);
-  align-items: center;
+  align-items: start;
 
   gap: clamp(1rem, 2.5vw, 3rem);
 
@@ -66,6 +66,7 @@ classes: wide
   width: 100%;
 
   justify-self: end;
+  margin-top: 3.7rem;
 }
 
 
