@@ -504,24 +504,6 @@ classes: wide
     </p>
 
 
-    <nav
-      class="uxlab-hero__links"
-      aria-label="Lab links"
-    >
-
-      <a
-        href="https://www.youtube.com/@UbiquitousX-HKUST"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        YouTube
-      </a>
-
-      <a href="{{ '/student/' | relative_url }}">
-        Join Us
-      </a>
-
-</nav>
 
   </div>
 
@@ -541,7 +523,25 @@ classes: wide
       >
 
     </div>
+  
+  <nav
+      class="uxlab-hero__links"
+      aria-label="Lab links"
+    >
 
+      <a
+        href="https://www.youtube.com/@UbiquitousX-HKUST"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        YouTube
+      </a>
+
+      <a href="{{ '/student/' | relative_url }}">
+        Join Us
+      </a>
+
+   </nav>
   </div>
 
 </section>
