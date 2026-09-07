@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Join US"
+title: "Join US"
 permalink: /student/
 author_profile: true
 ---

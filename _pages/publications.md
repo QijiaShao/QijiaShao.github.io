@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Selected Publications"
+title: "Selected Projects"
 permalink: /publications/
 author_profile: true
 classes: wide
@@ -8,7 +8,7 @@ classes: wide
 
 <p class="publication-note">
   <span class="publication-advisee">Underlined</span> are my direct advisees.
-  <sup>*</sup> marks co-primary authors.
+  <sup>*</sup> marks co-primary authors. For full list, please refer to the [google scholar](https://scholar.google.com/citations?user=lvAcSnoAAAAJ&hl=en).
 </p>
 
 {% assign papers = "
