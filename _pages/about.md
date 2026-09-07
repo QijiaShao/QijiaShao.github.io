@@ -3,8 +3,8 @@ layout: single
 permalink: /
 # title: "About Me"
 excerpt: "Practically deployable new sensing rationale and generalizable AI systems for understanding human behavior and physiology."
-author_profile: true
-show_affiliation_logo: true
+author_profile: false
+ 
 home_news_limit: 8
 redirect_from:
   - /about/
@@ -12,6 +12,12 @@ redirect_from:
 ---
 
 <div class="home-page">
+
+  <div class="home-affiliation-logo">
+    <img
+      src="{{ '/images/hkust/hkust.png' | relative_url }}"
+      alt="The Hong Kong University of Science and Technology">
+  </div>
 
 <p class="home-lead">
   Hello! I am <strong>Qijia Shao</strong>, an Assistant Professor in
@@ -21,8 +27,8 @@ redirect_from:
   at the Hong Kong University of Science and Technology (HKUST).
   I direct the
   <a class="home-link home-link--hkust" href="{{ '/team/' | relative_url }}">
-    Ubiquitous X Lab
-  </a>.
+    Ubiquitous X Lab.
+  </a>
 </p>
 
 <p class="home-lead home-lead--secondary">
@@ -41,8 +47,7 @@ redirect_from:
   my master's degree from
   <a class="home-link home-link--dartmouth" href="https://home.dartmouth.edu/">
     Dartmouth College，
-  </a>
-  and my bachelor's degree from
+  </a> and my bachelor's degree from
   <a class="home-link home-link--uestc" href="https://en.uestc.edu.cn/">
     UESTC.
   </a> My research interests lie broadly in mobile &amp; ubiquitous computing and

@@ -234,3 +234,14 @@
 .page__content .home-page .home-lead:last-of-type {
   margin-bottom: 1.5rem;
 }
+
+.page__content .home-page .home-affiliation-logo {
+  margin: 0 0 1.5rem;
+}
+
+.page__content .home-page .home-affiliation-logo img {
+  display: block;
+  width: 240px;
+  max-width: 100%;
+  height: auto;
+}
