@@ -44,7 +44,7 @@ classes: wide
   max-width: 1450px;
   min-height:auto;
 
-  margin: -2rem auto 0;
+  margin: -1rem auto 0;
   padding: 0;
 }
 
