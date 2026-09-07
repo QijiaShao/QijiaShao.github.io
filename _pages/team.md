@@ -108,7 +108,7 @@ classes: wide
 .uxlab-hero__lead {
   max-width: 48rem;
 
-  margin: 2rem 0 0;
+  margin: 1rem 0 0;
 
   color: var(--uxlab-muted);
 
@@ -127,7 +127,7 @@ classes: wide
 
   gap: 1rem 2.4rem;
 
-  margin-top: 2.2rem;
+  margin-top: 1rem;
 }
 
 
