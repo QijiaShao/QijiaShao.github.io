@@ -18,10 +18,7 @@ redirect_from:
   <a class="home-link home-link--hkust" href="https://isd.hkust.edu.hk/">ISD</a>
   and
   <a class="home-link home-link--hkust" href="https://cse.hkust.edu.hk/">CSE</a>
-  at the
-  <a class="home-link home-link--hkust" href="https://hkust.edu.hk/">
-    Hong Kong University of Science and Technology (HKUST)
-  </a>.
+  at the Hong Kong University of Science and Technology (HKUST).
   I direct the
   <a class="home-link home-link--hkust" href="{{ '/team/' | relative_url }}">
     Ubiquitous X Lab
@@ -43,12 +40,12 @@ redirect_from:
   </a>),
   my master's degree from
   <a class="home-link home-link--dartmouth" href="https://home.dartmouth.edu/">
-    Dartmouth College
-  </a>,
+    Dartmouth College，
+  </a>
   and my bachelor's degree from
   <a class="home-link home-link--uestc" href="https://en.uestc.edu.cn/">
-    UESTC
-  </a>.  My research interests lie broadly in mobile &amp; ubiquitous computing and
+    UESTC.
+  </a> My research interests lie broadly in mobile &amp; ubiquitous computing and
   its intersection with other disciplines.
   Please check out our
   <a class="home-link home-link--hkust" href="https://www.youtube.com/@UbiquitousX-HKUST">
@@ -62,7 +59,7 @@ redirect_from:
   <aside class="home-callout" aria-labelledby="home-openings-title">
     <h2 id="home-openings-title">Join our group</h2>
     <p>
-      We have openings for postdoctoral researchers, Ph.D. students, and visiting students.
+      We have openings for postdoctoral researchers, Ph.D. students, and visiting students. Prospective Ph.D. applicants are encouraged to undertake an internship with us before applying.
     </p>
     <a class="home-cta" href="{{ '/student/' | relative_url }}">
       Explore opportunities <span aria-hidden="true">&rarr;</span>
@@ -72,7 +69,7 @@ redirect_from:
   <section class="home-section" aria-labelledby="home-research-title">
     <h2 id="home-research-title">Research</h2>
     <p>
-    At <strong>Ubiquitous X Lab</strong>, our lab creates
+    At Ubiquitous X Lab, we creates
     <strong>practically deployable new sensing rationales and generalizable AI systems</strong>
     to understand human behavior and physiology, with applications in healthcare,
     education, and interaction.
