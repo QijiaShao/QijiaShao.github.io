@@ -16,11 +16,17 @@
 
             <li class="masthead__menu-item">
               <a href="{{ domain }}{{ link.url }}">
+
                 {% if link.url == '/team/' %}
-                  Ubiquitous <span class="masthead-lab-x">X</span> Lab
+                  Ubiquitous
+                  <span class="masthead-lab-x{% if page.url == '/team/' %} masthead-lab-x--team{% endif %}">
+                    X
+                  </span>
+                  Lab
                 {% else %}
                   {{ link.title }}
                 {% endif %}
+
               </a>
             </li>
           {% endfor %}
