@@ -3,7 +3,7 @@ layout: single
 permalink: /
 # title: "About Me"
 excerpt: "Practically deployable new sensing rationale and generalizable AI systems for understanding human behavior and physiology."
-author_profile: false
+author_profile: true
  
 home_news_limit: 8
 redirect_from:
@@ -74,7 +74,7 @@ redirect_from:
   <section class="home-section" aria-labelledby="home-research-title">
     <h2 id="home-research-title">Research</h2>
     <p>
-    At Ubiquitous X Lab, we creates
+    At Ubiquitous X Lab, we create
     <strong>practically deployable new sensing rationales and generalizable AI systems</strong>
     to understand human behavior and physiology, with applications in healthcare,
     education, and interaction.
