@@ -13,19 +13,56 @@ redirect_from:
 
 <div class="home-page">
 
-  <p class="home-lead">
-    I am an Assistant Professor at the
-    <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology (HKUST)</a>.
-    Our lab creates <strong>practically deployable sensing rationale and generalizable AI systems</strong>
-    to understand human behavior and physiology, with applications in healthcare,
-    education, and interaction.
-  </p>
+<p class="home-lead">
+  Hello! I am <strong>Qijia Shao</strong>, an Assistant Professor in
+  <a class="home-link home-link--hkust" href="https://isd.hkust.edu.hk/">ISD</a>
+  and
+  <a class="home-link home-link--hkust" href="https://cse.hkust.edu.hk/">CSE</a>
+  at the
+  <a class="home-link home-link--hkust" href="https://hkust.edu.hk/">
+    Hong Kong University of Science and Technology (HKUST)
+  </a>.
+  I direct the
+  <a class="home-link home-link--hkust" href="{{ '/team/' | relative_url }}">
+    Ubiquitous X Lab
+  </a>.
+</p>
+
+<p class="home-lead home-lead--secondary">
+  Before joining HKUST, I completed my Ph.D. in Computer Science from
+  <a class="home-link home-link--columbia" href="https://www.columbia.edu/">
+    Columbia University
+  </a>
+  (advised by
+  <a class="home-link home-link--advisor" href="https://www.cs.columbia.edu/~xia/">
+    Xia Zhou
+  </a>
+  and
+  <a class="home-link home-link--advisor" href="http://fredjiang.com/">
+    Fred Jiang
+  </a>),
+  my master's degree from
+  <a class="home-link home-link--dartmouth" href="https://home.dartmouth.edu/">
+    Dartmouth College
+  </a>,
+  and my bachelor's degree from
+  <a class="home-link home-link--uestc" href="https://en.uestc.edu.cn/">
+    UESTC
+  </a>.  My research interests lie broadly in mobile &amp; ubiquitous computing and
+  its intersection with other disciplines.
+  Please check out our
+  <a class="home-link home-link--hkust" href="https://www.youtube.com/@UbiquitousX-HKUST">
+    demo videos
+  </a>
+  to learn more.
+</p>
+
+
 
   <aside class="home-callout" aria-labelledby="home-openings-title">
     <h2 id="home-openings-title">Join our group</h2>
     <p>
       We have openings for postdoctoral researchers, Ph.D. students, and visiting students.
-      Prospective Ph.D. applicants are encouraged to undertake an internship with us before applying.
     </p>
     <a class="home-cta" href="{{ '/student/' | relative_url }}">
       Explore opportunities <span aria-hidden="true">&rarr;</span>
@@ -35,9 +72,11 @@ redirect_from:
   <section class="home-section" aria-labelledby="home-research-title">
     <h2 id="home-research-title">Research</h2>
     <p>
-      We combine physical and physiological sensing with hardware–software co-design
-      to understand human states and address real-world challenges.
-      Our work focuses on two complementary directions.
+    At <strong>Ubiquitous X Lab</strong>, our lab creates
+    <strong>practically deployable new sensing rationales and generalizable AI systems</strong>
+    to understand human behavior and physiology, with applications in healthcare,
+    education, and interaction.
+    Our work focuses on two complementary directions.
     </p>
 
     <div class="home-research-grid">
@@ -64,18 +103,6 @@ redirect_from:
     </nav>
   </section>
 
-  <section class="home-section" aria-labelledby="home-background-title">
-    <h2 id="home-background-title">Background</h2>
-    <p>
-      I received my Ph.D. in Computer Science from
-      <a href="https://www.columbia.edu/">Columbia University</a> in 2024,
-      advised by <a href="https://www.cs.columbia.edu/~xia/">Xia Zhou</a> and
-      <a href="http://fredjiang.com/">Fred Jiang</a>.
-      Before that, I earned my master's degree from
-      <a href="https://home.dartmouth.edu/">Dartmouth College</a> and my bachelor's degree from
-      <a href="https://en.uestc.edu.cn/">UESTC</a>.
-    </p>
-  </section>
 
   {% assign home_news = site.data.home_news %}
   {% assign news_limit = page.home_news_limit | default: 5 %}
