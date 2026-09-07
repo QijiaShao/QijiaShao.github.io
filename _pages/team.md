@@ -35,7 +35,7 @@ classes: wide
   --uxlab-muted: #5e5e5e;
 
   display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(440px, 0.8fr);
+  grid-template-columns: minmax(0, 1.2fr) minmax(420px, 0.8fr);
   align-items: end;
 
   gap: clamp(1rem, 2.5vw, 3rem);
