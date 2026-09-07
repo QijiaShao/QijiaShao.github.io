@@ -58,6 +58,16 @@ classes: wide
   min-width: 0;
 }
 
+.uxlab-hero__right {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+
+  width: 100%;
+
+  justify-self: end;
+}
+
 
 /* Small orange slogan */
 .uxlab-hero__eyebrow {
@@ -126,6 +136,16 @@ classes: wide
   flex-wrap: wrap;
 
   gap: 1rem 2.4rem;
+
+  margin-top: 1rem;
+}
+
+.uxlab-hero__links--right {
+  justify-content: flex-end;
+
+  width: 100%;
+
+  gap: 1.5rem;
 
   margin-top: 1rem;
 }
@@ -525,7 +545,7 @@ classes: wide
     </div>
   
   <nav
-      class="uxlab-hero__links"
+      class="uxlab-hero__links uxlab-hero__links--right"
       aria-label="Lab links"
     >
 
