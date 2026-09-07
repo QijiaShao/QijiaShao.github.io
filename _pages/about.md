@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /
 # title: "About Me"
 excerpt: "Practically deployable new sensing rationale and generalizable AI systems for understanding human behavior and physiology."
