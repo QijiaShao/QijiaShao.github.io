@@ -1,0 +1,111 @@
+# Newest items first. The homepage shows the first five by default.
+# Remaining items are available under the native "Earlier news" disclosure.
+# Dates are month/year, preserved from the original homepage.
+
+- date: "07/2026"
+  text: >-
+    Thrilled to receive the Hong Kong RGC Early Career Award 2026! Excited for what’s ahead!
+
+- date: "07/2026"
+  text: >-
+    Invited to serve as TPC for ACM MobiCom 2027, please consider submitting!
+
+- date: "07/2026"
+  text: >-
+    The first batch of our group's papers are accepted to  [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/index.html) x1 and [IMWUT/UbiComp2026](https://www.ubicomp.org/ubicomp-iswc-2026/) x2. Congrats to Jiting, Ziqi, Junxiao and the rest of the team! More details to come!
+
+- date: "05/2026"
+  text: >-
+    Invited to serve as TPC for [ACM SenSys 2027](https://sensys.acm.org/2027/), please consider submitting!
+
+- date: "02/2026"
+  text: >-
+    [Joey](https://dl.acm.org/doi/abs/10.1145/3643832.3661867) has been selected as one of the [SIGMOBILE Research Highlights!](https://www.sigmobile.org/grav/publications/research-highlights)
+
+- date: "11/2025"
+  text: >-
+    Gave a guest lecture titled From Data to Action: Ubiquitous Systems Shaping Healthcare and Education at Yonsei University. Thank [Prof. JeongGil Ko](https://sites.google.com/site/jeonggilko) for the invitation!
+
+- date: "10/2025"
+  text: >-
+    Invited to serve as TPC for [ACM MobiSys 2026](https://sigmobile.org/mobisys/2026/), please consider submitting!
+
+- date: "08/2025"
+  text: >-
+    Humbled to be featured as [IEEE Pervasive Computing's Emerging Rockstar](https://ieeexplore.ieee.org/document/11131431)!
+
+- date: "08/2025"
+  text: >-
+    Our paper **"My Pillow Knows My Sleep: Sleep Monitoring with Computational Fabrics in the Pillowcase"** has been accepted by IMWUT/[UbiComp2025](https://www.ubicomp.org/ubicomp-iswc-2025/). Though it doesn't yet match my ideal vision, this system represents a cool and effective design for passive sleep monitoring.  We can sense your ECG and neck EMG with your pillowcase, and you won't feel a thing!  For a deeper dive, see the paper [here](https://dl.acm.org/doi/10.1145/3749550)!
+
+- date: "03/2025"
+  text: >-
+    Serving as a Local Co-chair for [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/index.html). See you all in Hong Kong!
+
+- date: "01/2025"
+  text: >-
+    Joey was highlighted in [GetMobile](https://dl.acm.org/doi/10.1145/3714983.3714994) from ACM SIGMOBILE!
+
+- date: "11/2024"
+  text: >-
+    Invited to serve as TPC for [ACM SenSys 2025](https://sensys.acm.org/2025/), please consider submitting!
+
+- date: "10/2024"
+  text: >-
+    Invited to join the Editorial Board of [ACM IMWUT](https://dl.acm.org/journal/imwut) as an Associate Editor, please consider submitting!
+
+- date: "10/2024"
+  text: >-
+    Invited to serve as TPC for [ACM MobiSys 2025](https://sigmobile.org/mobisys/2025/), please consider submitting!
+
+- date: "10/2024"
+  text: >-
+    Humbled to be named the finalist for the [UbiComp/IMWUT Gaetano Borriello Outstanding Student Award](https://www.ubicomp.org/ubicomp-iswc-2024/awards/student-award/)!
+
+- date: "09/2024"
+  text: >-
+    Arrived in Hong Kong and officially started at HKUST!
+
+- date: "07/2024"
+  text: >-
+    Invited to serve as a keynote speaker in UbiComp [MIMSVAI 2024 Workshop](https://mimsvai.github.io/)! See you in Melbourne!
+
+- date: "07/2024"
+  text: >-
+    Successfully defended my Ph.D. dissertation! A heartfelt THANK YOU to everyone who supported me along this journey!
+
+- date: "06/2024"
+  text: >-
+    Thrilled to receive the **Best Paper Award**, the **Best Demo Award** (People's Choice) and the **Best Presentation Award** of the Rising Stars Forum at [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/)!
+
+- date: "04/2024"
+  text: >-
+    Selected as one of the [Rising Stars in Cyber-Physical Systems](https://risingstars.linklab.virginia.edu/2024/participants/qijia-shao.html)!
+
+- date: "04/2024"
+  text: >-
+    Selected as one of the [MobiSys Rising Stars 2024](https://www.sigmobile.org/mobisys/2024/rising.html)!
+
+- date: "03/2024"
+  text: >-
+    Our paper **"Joey:Supporting Kangaroo Mother Care with Computational Fabrics"** has been conditionally accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/). The hardest user study ever! But I'm immensely proud of this work. We introduced a fabric-based physiological sensing system to unobtrusively monitor the infant's ECGs and the skin-to-skin contact between the infant and the caregiver. The potential to enhance Kangaroo Mother Care (for pre-term babies!) holds significant importance and meaning for me! Please check out the paper [here](https://dl.acm.org/doi/10.1145/3643832.3661867) and [project website](https://mobilex.cs.columbia.edu/joey/) for more details!
+
+- date: "01/2024"
+  text: >-
+    Gave an [invited talk](https://www.ie.cuhk.edu.hk/wp-content/uploads/2024/01/20240124_sem0524_Mr.-SHAO-Qijia_GLX.pdf) at CUHK. Thank Prof. Guoliang Xing for the host!
+
+- date: "12/2023"
+  text: >-
+    My internship work **"Normalization is All You Need: Robust Full-Range Contactless SpO2 Estimation Across Users"** at Samsung Research is accepted at [ICASSP 2024](https://2024.ieeeicassp.org/) as an oral presentation! We proposed a simple yet effective algorithm to handle the cross-user variation (e.g., different skin tones and ages). The proposed algorithm is an A1 patent for Samsung and now being deployed to Samsung products! Please check out our paper [here!](https://ieeexplore.ieee.org/document/10446435)
+
+- date: "11/2023"
+  text: >-
+    Gave an invited talk at North Carolina State University and a [guest lecture](https://www.cs.columbia.edu/~xia/mobilex/schedule.html) in CS 6998 at Columbia University.
+
+- date: "09/2023"
+  text: >-
+    Won the Best Demo Award at [MobiCom 2023](https://sigmobile.org/mobicom/2023/) and the Best Teaser Award at [UbiComp 2023](https://www.ubicomp.org/ubicomp-iswc-2023/).
+
+- date: "09/2023"
+  text: >-
+    Happy and honored to serve as a [JEDI Ambassador](https://www.ubicomp.org/ubicomp-iswc-2023/accessibility/jedi-ambassadors/) for UbiComp/ISWC 2023. I eagerly anticipate collaborating with the JEDI chairs to ensure UbiComp/ISWC 2023 is both accessible and inclusive for all attendees. See you in Cancun!

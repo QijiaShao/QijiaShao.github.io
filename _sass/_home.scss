@@ -1,0 +1,198 @@
+/* Homepage only. Imported after the theme's existing styles. */
+
+.page__content .home-page {
+  --home-accent: #{$HKUST-yellow};
+  max-width: 76ch;
+  color: #333;
+  line-height: 1.65;
+  text-align: left;
+  overflow-wrap: break-word;
+}
+
+.page__content .home-page p {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+}
+
+.page__content .home-page strong {
+  color: #202124;
+  font-weight: 650;
+}
+
+.page__content .home-page a,
+.page__content .home-page a:visited {
+  color: var(--home-accent);
+  text-decoration: none;
+}
+
+.page__content .home-page a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.page__content .home-page a:focus-visible,
+.page__content .home-page summary:focus-visible {
+  outline: 2px solid var(--home-accent);
+  outline-offset: 4px;
+}
+
+.page__content .home-page .home-lead {
+  max-width: 70ch;
+  margin: 0 0 1.5rem;
+  font-size: 1.1rem;
+  line-height: 1.65;
+}
+
+.page__content .home-page h2 {
+  margin: 0 0 0.75rem;
+  padding: 0;
+  border: 0;
+  color: #202124;
+  font-size: 1.25rem;
+  line-height: 1.3;
+}
+
+.page__content .home-page .home-section {
+  margin-top: 2.25rem;
+}
+
+/* Quiet recruitment notice, rather than a large red announcement. */
+.page__content .home-page .home-callout {
+  margin: 0;
+  padding: 1rem 1.2rem;
+  border: 1px solid rgba($HKUST-yellow, 0.18);
+  border-left: 3px solid var(--home-accent);
+  border-radius: 6px;
+  background: rgba($HKUST-yellow, 0.05);
+}
+
+.page__content .home-page .home-callout h2 {
+  margin-bottom: 0.35rem;
+  color: var(--home-accent);
+  font-size: 1rem;
+}
+
+.page__content .home-page .home-callout p {
+  margin-bottom: 0.45rem;
+  font-size: 0.95rem;
+}
+
+.page__content .home-page .home-cta {
+  font-size: 0.95rem;
+  font-weight: 650;
+}
+
+/* Two research directions, with no images or heavy shadows. */
+.page__content .home-page .home-research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.page__content .home-page .home-research-card {
+  min-width: 0;
+  padding: 1.1rem;
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.page__content .home-page .home-research-card h3 {
+  margin: 0 0 0.5rem;
+  color: #202124;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.page__content .home-page .home-research-card p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.page__content .home-page .home-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+/* News: date column + description. */
+.page__content .home-page .home-news-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.page__content .home-page .home-news-item {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  gap: 1rem;
+  margin: 0;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid #ededed;
+}
+
+.page__content .home-page .home-news-date {
+  padding-top: 0.1rem;
+  color: #737373;
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.page__content .home-page .home-news-text {
+  min-width: 0;
+}
+
+.page__content .home-page .home-news-text p {
+  margin: 0;
+  font-size: 0.92rem;
+}
+
+.page__content .home-page .home-news-text p + p {
+  margin-top: 0.5rem;
+}
+
+.page__content .home-page .home-news-archive {
+  margin-top: 1rem;
+}
+
+.page__content .home-page .home-news-archive summary {
+  width: fit-content;
+  color: var(--home-accent);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.page__content .home-page .home-news-archive[open] summary {
+  margin-bottom: 0.6rem;
+}
+
+/* Stack cards on small screens. Keep the existing sidebar behavior. */
+@media (max-width: 640px) {
+  .page__content .home-page .home-lead {
+    font-size: 1.05rem;
+  }
+
+  .page__content .home-page .home-section {
+    margin-top: 1.75rem;
+  }
+
+  .page__content .home-page .home-research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .page__content .home-page .home-callout,
+  .page__content .home-page .home-research-card {
+    padding: 1rem;
+  }
+
+  .page__content .home-page .home-news-item {
+    grid-template-columns: 4rem minmax(0, 1fr);
+    gap: 0.65rem;
+  }
+}
