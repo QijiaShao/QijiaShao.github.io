@@ -38,14 +38,14 @@ classes: wide
   grid-template-columns: minmax(0, 1.2fr) minmax(360px, 0.8fr);
   align-items: center;
 
-  gap: clamp(2.5rem, 3.5vw, 5rem);
+  gap: clamp(2rem, 3.5vw, 5rem);
 
   width: 100%;
   max-width: 1450px;
   min-height:auto;
 
-  margin: 0 auto;
-  padding: 0.2rem 0 0.2rem;
+  margin: -2rem auto 0;
+  padding: 0;
 }
 
 
