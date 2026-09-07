@@ -38,7 +38,7 @@ classes: wide
   grid-template-columns: minmax(0, 1.2fr) minmax(360px, 0.8fr);
   align-items: center;
 
-  gap: clamp(2rem, 3.5vw, 5rem);
+  gap: clamp(1rem, 2.5vw, 3rem);
 
   width: 100%;
   max-width: 1450px;
