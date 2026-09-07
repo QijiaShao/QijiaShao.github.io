@@ -1,10 +1,12 @@
 # main links links
 main:
-  - title: "Selected Publications"
-    url: /publications/
+
 
   - title: "Ubiquitous X Lab"
     url: /team/
+
+  - title: "Selected Projects"
+    url: /publications/
 
   - title: "Join US"
     url: /student/

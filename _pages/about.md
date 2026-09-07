@@ -64,7 +64,7 @@ redirect_from:
   <aside class="home-callout" aria-labelledby="home-openings-title">
     <h2 id="home-openings-title">Join our group</h2>
     <p>
-      We have openings for postdoctoral researchers, Ph.D. students, and visiting students. Prospective Ph.D. applicants are encouraged to undertake an internship with us before applying.
+      We have openings for postdoctoral researchers, Ph.D. students, and visiting students. 
     </p>
     <a class="home-cta" href="{{ '/student/' | relative_url }}">
       Explore opportunities <span aria-hidden="true">&rarr;</span>
