@@ -35,7 +35,7 @@ classes: wide
   --uxlab-muted: #5e5e5e;
 
   display: grid;
-  grid-template-columns: minmax(0, 1.2fr) minmax(340px, 0.8fr);
+  grid-template-columns: minmax(0, 1.2fr) minmax(360px, 0.8fr);
   align-items: center;
 
   gap: clamp(2.5rem, 3.5vw, 5rem);
@@ -495,10 +495,10 @@ classes: wide
       and
 
       <span class="uxlab-accent">
-        human-centered AI
+        human-centered AI systems
       </span>
 
-      systems that quietly transform lives in
+      that quietly transform lives in
       healthcare, education, and everyday interaction.
 
     </p>
