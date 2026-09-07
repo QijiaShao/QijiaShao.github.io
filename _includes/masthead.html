@@ -10,10 +10,19 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">
+                {% if link.url == '/team/' %}
+                  Ubiquitous <span class="masthead-lab-x">X</span> Lab
+                {% else %}
+                  {{ link.title }}
+                {% endif %}
+              </a>
+            </li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
