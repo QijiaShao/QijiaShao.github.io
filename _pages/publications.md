@@ -8,7 +8,13 @@ classes: wide
 
 <p class="publication-note">
   <span class="publication-advisee">Underlined</span> are my direct advisees.
-  <sup>*</sup> marks co-primary authors. For full list, please refer to the [google scholar](https://scholar.google.com/citations?user=lvAcSnoAAAAJ&hl=en).
+  <sup>*</sup> marks co-primary authors.
+  For the full list, please refer to
+  <a href="https://scholar.google.com/citations?user=lvAcSnoAAAAJ&hl=en"
+     target="_blank"
+     rel="noopener noreferrer">
+    Google Scholar
+  </a>.
 </p>
 
 {% assign papers = "
