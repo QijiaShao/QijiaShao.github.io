@@ -147,7 +147,7 @@ classes: wide
 
   gap: 1.5rem;
 
-  margin-top: 1.4rem;
+  margin-top: 1.8rem;
 }
 
 
