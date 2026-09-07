@@ -66,7 +66,7 @@ classes: wide
   width: 100%;
 
   justify-self: end;
-  margin-top: 3.7rem;
+  margin-top: 0.5rem;
 }
 
 
