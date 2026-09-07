@@ -35,10 +35,10 @@ classes: wide
   --uxlab-muted: #5e5e5e;
 
   display: grid;
-  grid-template-columns: minmax(0, 0.9fr) minmax(420px, 1.1fr);
+  grid-template-columns: minmax(0, 1.2fr) minmax(340px, 0.8fr);
   align-items: center;
 
-  gap: clamp(2.5rem, 5vw, 5rem);
+  gap: clamp(2.5rem, 3.5vw, 5rem);
 
   width: 100%;
   max-width: 1450px;
