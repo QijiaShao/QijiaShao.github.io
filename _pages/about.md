@@ -1,10 +1,10 @@
 ---
 layout: single
 permalink: /
-title: "About Me"
+# title: "About Me"
 excerpt: "Practically deployable new sensing rationale and generalizable AI systems for understanding human behavior and physiology."
 author_profile: true
-show_affiliation_logo: false
+show_affiliation_logo: true
 home_news_limit: 8
 redirect_from:
   - /about/
@@ -51,7 +51,7 @@ redirect_from:
   <a class="home-link home-link--hkust" href="https://www.youtube.com/@UbiquitousX-HKUST">
     demo videos
   </a>
-  to learn more.
+  to learn more on our recent work.
 </p>
 
 
