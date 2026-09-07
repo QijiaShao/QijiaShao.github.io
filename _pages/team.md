@@ -553,6 +553,31 @@ classes: wide
 ## Our Team
 We are truly blessed and proud to work with an exceptional group of researchers who bring diverse expertise and enthusiasm to every project.
 
+
+<div class="lab-photo-carousel" aria-label="Ubiquitous X Lab photos">
+
+  <div class="lab-photo-slide is-active">
+    <img src="{{ '/images/lab/lab-group-1.jpg' | relative_url }}"
+         alt="Ubiquitous X Lab group photo">
+  </div>
+
+  <div class="lab-photo-slide">
+    <img src="{{ '/images/lab/lab-group-2.jpg' | relative_url }}"
+         alt="Ubiquitous X Lab activity">
+  </div>
+
+  <div class="lab-photo-slide">
+    <img src="{{ '/images/lab/lab-group-3.jpg' | relative_url }}"
+         alt="Ubiquitous X Lab group event">
+  </div>
+
+  <div class="lab-photo-slide">
+    <img src="{{ '/images/lab/lab-group-4.jpg' | relative_url }}"
+         alt="Ubiquitous X Lab presentation">
+  </div>
+
+</div>
+
 ### Faculty
 <div class="uxlab-student-grid">
 
@@ -662,6 +687,24 @@ We are truly blessed and proud to work with an exceptional group of researchers 
 
 </div>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const slides = document.querySelectorAll(".lab-photo-slide");
+
+  if (slides.length <= 1) return;
+
+  let current = 0;
+
+  setInterval(function () {
+    slides[current].classList.remove("is-active");
+
+    current = (current + 1) % slides.length;
+
+    slides[current].classList.add("is-active");
+  }, 4000);
+});
+</script>
+
 ### Visiting Students/RA
 * [Zeyu Luo]() (RA, M.S. from HKUST) 2025 Spring - 
 * [Jerry Yue Gong]() (RA, M.S. @HKUST) 2025 Spring - 
@@ -675,3 +718,4 @@ We are truly blessed and proud to work with an exceptional group of researchers 
 * [Xiangjie Tang]() Visiting Student (2025-2026), Now Ph.D. student at Seoul National University.
 * [Ziyi Xu]() Undergraduate (2025-2026), Now Ph.D. student at HKUST.
 * [Yuchao Wang]() RA (2025-2026), Now M.Phil student at HKUST.
+
