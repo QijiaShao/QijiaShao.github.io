@@ -2,6 +2,10 @@
 # Remaining items are available under the native "Earlier news" disclosure.
 # Dates are month/year, preserved from the original homepage.
 
+- date: "09/2026"
+  text: >-
+    Our paper **"VCR: Learning Valid Contextual Representation for Incomplete Wearable Signals"** has been accepted by [NeurIPS 2026](https://neurips.cc/). Congrats to Yuxuan! More details to come!
+
 - date: "07/2026"
   text: >-
     Thrilled to receive the [Hong Kong RGC Early Career Award](https://awards.ugc.edu.hk/award/early-career-award) 2026! Excited for what’s ahead!
