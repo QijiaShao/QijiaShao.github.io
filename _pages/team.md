@@ -728,10 +728,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 ### Visiting Students/RA
 * [Zeyu Luo]() (RA, M.S. from HKUST) 2025 Spring - 
-* [Jerry Yue Gong]() (RA, M.S. @HKUST) 2025 Spring - 
 * [Xuye You]() (Undergraduate @HKUST) 2026 Summer - 
 * [Madi Liang]() (RA, M.S. from Queensland) 2026 Summer - 
-* [Sibo Wang]() (Visiting Student, M.S. @Tongji) 2026 Summer - 
+
 
 
 ### Alumni
@@ -739,4 +738,6 @@ document.addEventListener("DOMContentLoaded", function () {
 * [Xiangjie Tang]() Visiting Student (2025-2026), Now Ph.D. student at Seoul National University.
 * [Ziyi Xu]() Undergraduate (2025-2026), Now Ph.D. student at HKUST.
 * [Yuchao Wang]() RA (2025-2026), Now M.Phil student at HKUST.
+* [Jerry Yue Gong]() (RA, M.S. @HKUST) 2025 Spring - 2026 Spring, Now Ph.D. student at HKUST.
+* [Sibo Wang]() (Visiting Student, M.S. @Tongji) 2026 Summer 
 
