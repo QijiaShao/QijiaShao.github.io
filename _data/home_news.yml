@@ -7,7 +7,7 @@
   text: >-
     Our [SwimHR](https://dl.acm.org/doi/abs/10.1145/3795866.3844450) project received the **Best Demo Award** at [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/awards.html)! 
     We believe this project could open a new direction for underwater human sensing. Simply by placing their hands in water, attendees could see their own ECG and heart rate in real time—no wearable sensors, no calibration, and no need to stay still. 
-    Using water itself as the sensing medium, SwimHR delivered heart-rate readings that closely matched the body-worn gold-standard reference. Check the demo video [here](https://www.youtube.com/watch?v=pYqvvz1_QZ0).
+    Using water itself as the sensing medium, SwimHR delivered heart-rate readings that closely matched the body-worn gold-standard reference during actual swimming! Check the demo video [here](https://www.youtube.com/watch?v=pYqvvz1_QZ0).
 
 - date: "10/2026"
   text: >-
