@@ -5,6 +5,12 @@
 
 - date: "10/2026"
   text: >-
+    Our [SwimHR](https://dl.acm.org/doi/abs/10.1145/3795866.3844450) project received the **Best Demo Award** at [MobiCom 2026](https://www.sigmobile.org/mobicom/2026/awards.html)! 
+    We believe this project could open a new direction for underwater human sensing. Simply by placing their hands in water, attendees could see their own ECG and heart rate in real time—no wearable sensors, no calibration, and no need to stay still. 
+    Using water itself as the sensing medium, SwimHR delivered heart-rate readings that closely matched the body-worn gold-standard reference. Check the demo video [here](https://www.youtube.com/watch?v=pYqvvz1_QZ0).
+
+- date: "10/2026"
+  text: >-
     Our [PillowSense](https://dl.acm.org/doi/10.1145/3749550) project received the **IMWUT Distinguished Paper Award** at [UbiComp 2026](https://www.ubicomp.org/ubicomp-iswc-2026/)! This project didn’t turn out exactly as envisioned, but its detours shaped so much of what followed. A big thank-you and congratulations to all our collaborators!
 
 - date: "10/2026"
@@ -17,7 +23,7 @@
 
 - date: "07/2026"
   text: >-
-    Thrilled to receive the [Hong Kong RGC Early Career Award](https://awards.ugc.edu.hk/award/early-career-award) 2026! Excited for what’s ahead!
+    Thrilled to receive the **Hong Kong RGC Early Career Award** [2026!](https://awards.ugc.edu.hk/award/early-career-award)  Excited for what’s ahead!
 
 - date: "07/2026"
   text: >-
