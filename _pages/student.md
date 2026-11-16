@@ -8,7 +8,7 @@ author_profile: true
 **Prospective Ph.D. applicants are highly encouraged to undertake an internship with us before applying.**
 
 ## Contact Information
-If you are interested in further discussion with me, please send an email to qijiashao@ust.hk **AND** fill out this [form](https://forms.gle/QACWuB7QN9fsGiFw6). Thank you!  
+If you are interested, please send an email to qijiashao@ust.hk **AND** fill out this [form](https://forms.gle/QACWuB7QN9fsGiFw6). Thank you!  
  
 **Email Subject**: School-Name-Intended Position (Ph.D./Research Assistant/Visiting Student)  
 **Materials include**: CV (education background, list of papers/projects, internship experiences, list of references, etc.), Research Statement (1 page, mainly why you are interested), transcripts, English certificate.
