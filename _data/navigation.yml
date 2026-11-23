@@ -10,6 +10,10 @@ main:
 
   - title: "Join US"
     url: /student/
+
+    - title: "Awards"
+    url: /awards/    
+
     
   # - title: "Media Coverage"
     # url: /media/    
