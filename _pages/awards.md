@@ -46,14 +46,15 @@ classes: wide
 - **ACM MobiCom:** 2027
 - **ACM SenSys:** 2025, 2027
 
-### Conference Organization & Leadership
+### Conference Organization & Service
 
 - **General Co-Chair**, ACM SmartWear 2025; UbiComp Con4AP 2026
 - **Ph.D. Forum Co-Chair**, CPS-IoT/SenSys 2027
 - **Student Volunteer Chair**, ACM MobiSys 2027
 - **Gadget Show Chair**, ACM UbiComp 2026, 2027
+- **Judge, Functional Category**, ISWC Design Exhibition, 2026
 - **Local Chair**, ACM MobiCom 2025
-- **Keynote Speaker**, ACM UbiComp MIMSVAI Workshop 2024
+- **JEDI Ambassador**, ACM UbiComp/ISWC, 2023
 <!-- - **Session Chair**, ACM UbiComp 2024; ACM MobiCom 2025 -->
 
 ### Reviewing
@@ -65,3 +66,8 @@ classes: wide
 - IEEE Internet of Things Journal, 2025–2026
 - ACM Transactions on Internet of Things, 2024–2026
 - ACM Transactions on Computing for Healthcare, 2025-2026
+
+<!-- ### Selected Invited Talks
+
+- **Invited Speaker**, Real-World AI Workshop, ACM MobiCom 2026
+- **Keynote Speaker**, MIMSVAI Workshop, ACM UbiComp 2024 -->
