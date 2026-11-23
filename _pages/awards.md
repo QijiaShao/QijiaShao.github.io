@@ -8,29 +8,28 @@ classes: wide
 
 ## Honors and Recognitions
 
-- **2026** — Hong Kong RGC Early Career Award
-- **2026** — ACM HEALTH Distinguished Reviewer Board
-- **2026** — HKUST UROP (Undergraduate Research) Faculty Research Award
-- **2025** — IEEE Pervasive Computing Emerging Rockstar
-- **2024** — NSF Rising Stars in Cyber-Physical Systems
-- **2024** — ACM MobiSys Rising Star + Best Presentation Award
-- **2024** — UbiComp/IMWUT Gaetano Borriello Outstanding Student Award Finalist
-
+- 2026 — **Hong Kong RGC Early Career Award**
+- 2026 — **ACM HEALTH Distinguished Reviewer Board**
+- 2026 — **HKUST UROP (Undergraduate Research) Faculty Research Award**
+- 2025 — **IEEE Pervasive Computing Emerging Rockstar**
+- 2024 — **NSF Rising Stars in Cyber-Physical Systems**
+- 2024 — **ACM MobiSys Rising Star + Best Presentation Award**
+- 2024 — **UbiComp/IMWUT Gaetano Borriello Outstanding Student Award Finalist**
 
 ## Research Awards
 
-- **2026** — ACM MobiCom Best Demo Award — *[SwimHR](https://doi.org/10.1145/3795866.3844450)*
-- **2026** — ACM IMWUT/UbiComp Distinguished Paper Award — *[PillowSense](https://doi.org/10.1145/3749550)*
-- **2026** — ACM SIGMOBILE Research Highlight — *[Joey](https://doi.org/10.1145/3643832.3661867)*
-- **2026** — ACM UbiSense Workshop Best Paper Award — *[CodeSensei](https://qijiashao.github.io/files/publications/CodeSensei.pdf)*
-- **2026** — HKUST UROP Best Paper Award + Kerry Holdings Limited Award Champion — *[PreTap](https://dl.acm.org/doi/10.1145/3831983)*
-- **2024** — ACM MobiSys Best Paper Award — *[Joey](https://doi.org/10.1145/3643832.3661867)*
-- **2024** — ACM MobiSys People's Choice Best Demo Award — *[Joey](https://doi.org/10.1145/3643832.3661867)*
-- **2023** — ACM MobiCom Best Demo Award — *[Lasertag](https://doi.org/10.1145/3570361.3614081)*
-- **2023** — ACM UbiComp Best Teaser Award — *[N-euro Predictor](https://doi.org/10.1145/3610884)*
-- **2022** — Grand Prize at Dartmouth Innovation and Technology Festival — *[Sunflower](https://doi.org/10.1145/3498361.3539773)*
-- **2020** — ACM HotMobile Best Demo Award — *[PolarTag](https://doi.org/10.1145/3376897.3377854)*
-- **2019** — NSF Awesome Discoveries — *[Fabric-Joint](https://doi.org/10.1145/3314406)*
+- 2026 — **ACM IMWUT/UbiComp Distinguished Paper Award** — *[PillowSense](https://doi.org/10.1145/3749550)*
+- 2026 — **ACM MobiCom Best Demo Award** — *[SwimHR](https://doi.org/10.1145/3795866.3844450)*
+- 2026 — **ACM SIGMOBILE Research Highlight** — *[Joey](https://doi.org/10.1145/3643832.3661867)*
+- 2026 — **ACM UbiSense Workshop Best Paper Award** — *[CodeSensei](https://qijiashao.github.io/files/publications/CodeSensei.pdf)*
+- 2026 — **HKUST UROP Best Paper Award + Kerry Holdings Limited Award Champion** — *[PreTap](https://dl.acm.org/doi/10.1145/3831983)*
+- 2024 — **ACM MobiSys Best Paper Award** — *[Joey](https://doi.org/10.1145/3643832.3661867)*
+- 2024 — **ACM MobiSys People's Choice Best Demo Award** — *[Joey](https://doi.org/10.1145/3643832.3661867)*
+- 2023 — **ACM MobiCom Best Demo Award** — *[Lasertag](https://doi.org/10.1145/3570361.3614081)*
+- 2023 — **ACM UbiComp Best Teaser Award** — *[N-euro Predictor](https://doi.org/10.1145/3610884)*
+- 2022 — **Grand Prize at Dartmouth Innovation and Technology Festival** — *[Sunflower](https://doi.org/10.1145/3498361.3539773)*
+- 2020 — **ACM HotMobile Best Demo Award** — *[PolarTag](https://doi.org/10.1145/3376897.3377854)*
+- 2019 — **NSF Awesome Discoveries** — *[Fabric-Joint](https://doi.org/10.1145/3314406)*
 
 
 ## Professional Service
