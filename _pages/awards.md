@@ -18,8 +18,8 @@ classes: wide
 
 ## Research Awards
 
-- 2026 — ACM MobiCom Best Demo Award — [SwimHR](https://doi.org/10.1145/3795866.3844450)
 - 2026 — ACM IMWUT/UbiComp Distinguished Paper Award — [PillowSense](https://doi.org/10.1145/3749550)
+- 2026 — ACM MobiCom Best Demo Award — [SwimHR](https://doi.org/10.1145/3795866.3844450)
 - 2026 — ACM SIGMOBILE Research Highlight — [Joey](https://doi.org/10.1145/3643832.3661867)
 - 2026 — ACM UbiSense Workshop Best Paper Award — [CodeSensei](https://qijiashao.github.io/files/publications/CodeSensei.pdf)
 - 2026 — HKUST UROP Best Paper Award + Kerry Holdings Limited Award Champion — [PreTap](https://dl.acm.org/doi/10.1145/3831983)
