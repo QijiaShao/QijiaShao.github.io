@@ -7,13 +7,12 @@ main:
 
   - title: "Selected Projects"
     url: /publications/
-
-  - title: "Join US"
-    url: /student/
-
+    
   - title: "Awards & Service"
     url: /awards/    
 
+  - title: "Join US"
+    url: /student/
     
   # - title: "Media Coverage"
     # url: /media/    
